@@ -16,7 +16,7 @@ V2RAY_LINKS = list(set([
     "",
     "https://raw.githubusercontent.com/giromo/Collector2/refs/heads/main/Allconfig",
     "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/refs/heads/main/server.txt",
-    "",
+    "https://raw.githubusercontent.com/hans-thomas/v2ray-subscription/refs/heads/master/servers.txt",
     "",
     "",
     "",
