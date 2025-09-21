@@ -14,7 +14,7 @@ MT_PROTO_LINKS = [
 
 V2RAY_LINKS = list(set([
     "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt",
-    "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
+    "",
     "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
     "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
     "",
