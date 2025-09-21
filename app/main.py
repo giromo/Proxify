@@ -64,10 +64,10 @@ PROXY_LINKS = {
         'https://raw.githubusercontent.com/sunny9577/proxy-scraper/refs/heads/master/generated/http_proxies.txt',
         'https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/http.txt',
         'https://api.openproxylist.xyz/http.txt',
-        'https://alexa.lr2b.com/proxylist.txt',
+        '',
         'https://rootjazz.com/proxies/proxies.txt',
         'https://proxy-spider.com/api/proxies.example.txt',
-        'https://multiproxy.org/txt_all/proxy.txt',
+        '',
         'https://proxyspace.pro/http.txt'
     ],
     'https': [
