@@ -13,18 +13,18 @@ MT_PROTO_LINKS = [
 ]
 
 V2RAY_LINKS = list(set([
-    "https://raw.githubusercontent.com/MrPooyaX/VpnsFucking/main/BeVpn.txt",
     "",
-    "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
-    "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
-    "",
+    "https://raw.githubusercontent.com/giromo/Collector2/refs/heads/main/Allconfig",
+    "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/refs/heads/main/server.txt",
     "",
     "",
     "",
     "",
-    "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
-    "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
-    "https://mrpooya.top/SuperApi/BE.php"
+    "",
+    "",
+    "",
+    "",
+    ""
 ]))
 
 PROXY_LINKS = {
