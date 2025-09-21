@@ -22,7 +22,7 @@ V2RAY_LINKS = list(set([
     "https://raw.githubusercontent.com/free-nodes/v2rayfree/refs/heads/main/v1",
     "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt",
     "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/config.txt",
-    "",
+    "https://raw.githubusercontent.com/v2rayCrow/Sub-Link-Output/main/sub.txt",
     "",
     ""
 ]))
