@@ -17,11 +17,11 @@ V2RAY_LINKS = list(set([
     "https://raw.githubusercontent.com/yebekhe/TVC/main/subscriptions/xray/base64/mix",
     "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt",
     "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/reality",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vless",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/vmess",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/trojan",
-    "https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/protocols/shadowsocks",
+    "",
+    "",
+    "",
+    "",
+    "",
     "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
     "https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2",
     "https://mrpooya.top/SuperApi/BE.php"
@@ -79,7 +79,7 @@ PROXY_LINKS = {
         'https://proxyspace.pro/https.txt'
     ],
     'mtproto': [
-        'https://raw.githubusercontent.com/soroushmirzaei/telegram-proxies-collector/refs/heads/main/proxies'
+        'https://raw.githubusercontent.com/Argh94/telegram-proxy-scraper/refs/heads/main/proxy.txt'
     ]
 }
 
@@ -118,7 +118,7 @@ def get_metadata_headers():
 #profile-update-interval: 1
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
-#profile-web-page-url: https://github.com/firmfox/Proxify\n"""
+#profile-web-page-url: https://github.com/giromo/Proxify\n"""
 
 def organize_configs(configs):
     """Organize configs by protocol."""
