@@ -43,6 +43,7 @@ PROXY_LINKS = {
         'https://raw.githubusercontent.com/monosans/proxy-list/refs/heads/main/proxies/socks5.txt',
         'https://raw.githubusercontent.com/sunny9577/proxy-scraper/refs/heads/master/generated/socks5_proxies.txt',
         'https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks5.txt'
+        'https://raw.githubusercontent.com/Argh94/ProxyProwler/refs/heads/main/proxy_output/SOCKS5.txt'
     ],
     'socks4': [
         'https://raw.githubusercontent.com/proxifly/free-proxy-list/refs/heads/main/proxies/protocols/socks4/data.txt',
@@ -54,6 +55,7 @@ PROXY_LINKS = {
         'https://raw.githubusercontent.com/Zaeem20/FREE_PROXIES_LIST/refs/heads/master/socks4.txt',
         'https://raw.githubusercontent.com/r00tee/Proxy-List/main/Socks4.txt',
         'https://proxyspace.pro/socks4.txt'
+        'https://raw.githubusercontent.com/Argh94/ProxyProwler/refs/heads/main/proxy_output/SOCKS4.txt'
     ],
     'http': [
         'https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt',
@@ -77,6 +79,7 @@ PROXY_LINKS = {
         'https://raw.githubusercontent.com/vakhov/fresh-proxy-list/refs/heads/master/https.txt',
         'https://raw.githubusercontent.com/SevenworksDev/proxy-list/refs/heads/main/proxies/https.txt',
         'https://proxyspace.pro/https.txt'
+        'https://raw.githubusercontent.com/Argh94/ProxyProwler/refs/heads/main/proxy_output/HTTPS.txt'
     ],
     'mtproto': [
         'https://raw.githubusercontent.com/Argh94/telegram-proxy-scraper/refs/heads/main/proxy.txt'
