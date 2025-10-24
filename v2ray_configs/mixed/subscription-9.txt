@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.169.16.244:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com&sid=f5#🌐سرور 1523 | Oct-24 | MTSRVRS
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.222:8880?mode=gun&security=none&encryption=none&type=grpc#🌐سرور 1358 | Oct-24 | MTSRVRS
-vmess://eyJhZGQiOiJyb2tuYS5mYXJzb25saW5lMjQuaXIiLCJhaWQiOiIwIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0Ijoicm9rbmEuZmFyc29ubGluZTI0LmlyIiwiaWQiOiJmNzFkMGFmYi1lYTRlLTQ0ZTQtYjIxZC02MDUwY2RjYWQ2ZWEiLCJuZXQiOiJodHRwdXBncmFkZSIsInBhdGgiOiIv8J+GlEBNM0hESU8xIiwicG9ydCI6IjIwOTYiLCJwcyI6IkFsbC0tQElyYW5fVjJyYXkxIiwic2N5IjoiYXV0byIsInNuaSI6InJva25hLmZhcnNvbmxpbmUyNC5pciIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#🌐سرور 551 | Oct-24 | MTSRVRS
-vless://0c0b6d4a-0811-460f-d4b0-dd982a911240@91.99.181.225:443?security=reality&encryption=none&pbk=zW8LR-lHS_PXDyY8Q8bE_zvKdhY5MAmnsd8miBulx2U&headerType=none&fp=chrome&type=tcp&sni=store.steampowered.com#🌐سرور 1438 | Oct-24 | MTSRVRS
+vless://7e296434-2d17-48d3-928d-19eaa34aecb1@45.15.140.38:28495/?type=tcp&encryption=none&flow=&sni=dl.google.com&fp=chrome&security=reality&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&sid=0ecc2c1392#Telegram+%7C+Payam_Nsi
+vless://401374e6-df77-41fb-f638-dad8184f175b@31.43.179.38:443?security=tls&sni=pqh23v4.hiddendom.shop&type=grpc&host=pqh23v4.hiddendom.shop&alpn=h2#🌐سرور 1790 | Oct-24 | MTSRVRS
+vless://19e59472-a07a-460a-80f6-7e536249e742@de1.vipt-t.info:2070?mode=gun&security=none&encryption=none&type=grpc&serviceName=STARK.test#🌐سرور 2579 | Oct-24 | MTSRVRS
