@@ -3,7 +3,5 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.154.73:38388#🌐سرور 245 | Dec-01 | MTSRVRS
-trojan://telegram-id-privatevpns@3.120.187.229:22222?security=tls&sni=trj.rollingnext.co.uk#%E6%9C%AA%E7%9F%A5%20TROJAN-300%40free-nodes
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#🌐سرور 74 | Dec-01 | MTSRVRS
-vless://cd1bd810-ae03-4af8-a9cf-e39fb3220533@antimage.fonixapp.org:48138?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=lbo1jWRdkDrMcBkRcVXUBGoEbOun23CERmtkOWDS7Go&security=reality&sid=a941df4328&sni=deepl.com&type=tcp#🌐سرور 926 | Dec-01 | MTSRVRS
+vless://9d42b724-c1bd-450d-bfea-7404fc0f5e94@151.101.3.8:80?type=xhttp&encryption=none&path=/@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam----@XpnTeam&host=Mahsazxshop.org&mode=auto&security=none#🌐سرور 1389 | Dec-01 | MTSRVRS
+vless://2de98c6e-319d-4fd1-81ba-82237c44ed36@c51.aminzing.lol:443?path=%2FZjm69xMidcGhvbKndEqiP5s42Ba&security=tls&alpn=h2&encryption=none&host=c51.aminzing.lol&fp=chrome&type=httpupgrade&sni=c51.aminzing.lol#27hv-%40Fr33C0nfig%20%2F%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20🔗
