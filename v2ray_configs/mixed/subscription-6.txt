@@ -3,5 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-vless://3f426ef7-a809-4d46-921c-cc80b6cee4e0@51.250.85.164:446?security=reality&encryption=none&pbk=mMaSUsOC5i3ErLDcaWW9UOOjG0fcKPCwVjzGS1wXQx8&type=grpc&serviceName=ads.x5.ru&sni=ads.x5.ru&sid=0512567389abcdef#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B7%F0%9F%87%BA
-vless://f31f5fe0-0a42-436a-be94-437330801388@us.nitroo-tech.ru:443?security=reality&encryption=none&pbk=aHaFXlvmkeCV60wfe60DD9w00WE1euQfH6jtDq5iYkI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=7e44612b079459#🌐سرور 1115 | Jan-24 | MTSRVRS
+vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@181.214.231.8:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&sni=statue.lnmarketplace.net#🌐سرور 686 | Jan-24 | MTSRVRS
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@185.148.107.148:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.v6.rocks&type=ws&sni=sni.111000.v6.rocks#🌐سرور 569 | Jan-24 | MTSRVRS
+trojan://telegram-id-directvpn@3.65.79.146:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 266 | Jan-24 | MTSRVRS
