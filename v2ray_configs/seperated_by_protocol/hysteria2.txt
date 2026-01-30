@@ -4,7 +4,6 @@
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36600/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%40Filter_breaker
-hy2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%95%8A%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20@vpnforfreeinternet%20%23114`
+hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk01.poke-mon.xyz:20000?insecure=1&sni=www.apple.com#🌐سرور 2 | hysteria2 | Bah-10 | 19:14 | Ping: 248.62ms
 hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%95%8A%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20@vpnforfreeinternet%20%23116`
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All--@IRAN_V2RAY1
-hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk02.poke-mon.xyz:20000?insecure=1&sni=www.bing.com#🌐سرور 1 | hysteria2 | Bah-10 | 18:27 | Ping: 242.90ms
+hysteria2://407b6b2e-59e5-4466-9911-08f6f1263bc9@hk02.poke-mon.xyz:20000?insecure=1&sni=www.bing.com#🌐سرور 1 | hysteria2 | Bah-10 | 19:14 | Ping: 246.15ms
