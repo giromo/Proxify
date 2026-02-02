@@ -4,6 +4,6 @@
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All-@V2rayAlpha--6
-hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%95%8A%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20@vpnforfreeinternet%20%23116`
-hy2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?insecure=1&sni=hy5.hy2yydsapi.top#Hong%20Kong🇭🇰
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#🔸@IRAN_V2RAY1💘
+hy2://9c23940e-efd8-4763-bfb5-54739b50893d@156.226.173.8:8443/?insecure=1&sni=hy5.hy2yydsapi.top#Hong%20Kong🇭🇰
+hy2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#%F0%9F%95%8A%DA%86%D9%86%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20@vpnforfreeinternet%20%23116`
