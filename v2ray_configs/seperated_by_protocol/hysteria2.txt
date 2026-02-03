@@ -3,9 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://d479f4cc-21cd-407e-8864-c5d223ff905e@134.195.101.191:443?insecure=1&sni=www.apple.com#🌐سرور 3 | hysteria2 | Bah-14 | 15:06 | Ping: 51.56ms
-hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?insecure=1&sni=www.apple.com#🌐سرور 2 | hysteria2 | Bah-14 | 15:06 | Ping: 48.61ms
-hysteria2://31701b5dca9592f9d684dae3706161ea@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=0&sni=dd.ircybersec.org#%F0%9F%87%B8%F0%9F%87%AA%20%40proxy_online_net
-hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?security=tls&insecure=1&sni=www.apple.com#🌐سرور 1 | hysteria2 | Bah-14 | 15:06 | Ping: 47.41ms
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#🔸@IRAN_V2RAY1💘
+hysteria2://d479f4cc-21cd-407e-8864-c5d223ff905e@134.195.101.191:443?insecure=1&sni=www.apple.com#🌐سرور 2 | hysteria2 | Bah-14 | 16:38 | Ping: 50.82ms
+hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?security=tls&insecure=1&sni=www.apple.com#🌐سرور 3 | hysteria2 | Bah-14 | 16:38 | Ping: 51.88ms
+hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?insecure=1&sni=www.apple.com#🌐سرور 1 | hysteria2 | Bah-14 | 16:38 | Ping: 49.49ms
+hysteria2://31701b5dca9592f9d684dae3706161ea@dd.openaccessnode.com:989?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi&insecure=0&sni=dd.ircybersec.org#%F0%9F%87%B8%F0%9F%87%AA%20%40proxy_online_net
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#All-@V2rayAlpha--6
