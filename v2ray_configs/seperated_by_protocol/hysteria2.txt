@@ -4,7 +4,7 @@
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
-hysteria2://dongtaiwang.com@89.144.35.34:43608?insecure=1&sni=apple.com#🌐سرور 2 | hysteria2 | Esf-17 | 22:56 | Ping: 97.73ms
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#%F0%9F%8C%90%20Hysteria-TLS%20%7C%20%40Express_alaki%20%7C%20src%20%40ConfigX2ray
-hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@fr1.shiyuandian.shop:30000?insecure=1&obfs=salamander&obfs-password=YG%408Ld96QvE6jxSD&sni=fr1.shiyuandian.shop#🌐سرور 3 | hysteria2 | Esf-17 | 22:56 | Ping: 416.86ms
-hysteria2://alvin9999.com@157.254.223.24:30088?insecure=1&sni=apple.com#🌐سرور 1 | hysteria2 | Esf-17 | 22:56 | Ping: 56.13ms
+hysteria2://ae845cbd-08fb-4346-929a-e28a6f3960a8@fr1.shiyuandian.shop:30000?insecure=1&obfs=salamander&obfs-password=YG%408Ld96QvE6jxSD&sni=fr1.shiyuandian.shop#🌐سرور 3 | hysteria2 | Esf-18 | 00:01 | Ping: 232.60ms
+hysteria2://alvin9999.com@157.254.223.24:30088?insecure=1&sni=apple.com#🌐سرور 1 | hysteria2 | Esf-18 | 00:01 | Ping: 32.58ms
+hysteria2://dongtaiwang.com@89.144.35.34:43608?insecure=1&sni=apple.com#🌐سرور 2 | hysteria2 | Esf-18 | 00:01 | Ping: 105.36ms
