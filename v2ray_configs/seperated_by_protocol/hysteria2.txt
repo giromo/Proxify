@@ -3,4 +3,4 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://1ae9f3fa-46a3-4ccf-ac29-990ec9673022@svt1.fq.ito8.com:8080?sni=svt1.fq.ito8.com#🌐سرور 1 | hysteria2 | Esf-24 | 18:09 | Ping: 213.00ms
+hysteria2://1ae9f3fa-46a3-4ccf-ac29-990ec9673022@svt1.fq.ito8.com:8080?sni=svt1.fq.ito8.com#🌐سرور 1 | hysteria2 | Esf-24 | 19:02 | Ping: 137.95ms
