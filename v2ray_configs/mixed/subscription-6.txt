@@ -3,4 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-vless://3ea585f1-0208-49e7-9e94-3ff7634e045c@freak.gexar.top:30107?encryption=none&security=none&type=tcp&headerType=none#🌐سرور 565 | Mar-22 | MTSRVRS
+vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.70.45.198:443?security=none&encryption=none&headerType=none&type=tcp#MHH👉V2ray313👈%40v2ray313%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A5%BA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.146.198:2096?allowInsecure=1&encryption=none&host=sni.111000.indevs.in&path=%2F&security=tls&sni=sni.111000.indevs.in&type=ws#🌐سرور 586 | Mar-22 | MTSRVRS
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=celestialcorset.crystalhamster.click#🌐سرور 25 | Mar-22 | MTSRVRS
