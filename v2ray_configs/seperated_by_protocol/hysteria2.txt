@@ -3,7 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#🌐سرور 2 | hysteria2 | Far-02 | 09:25 | Ping: 175.46ms
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#🌐سرور 1 | hysteria2 | Far-02 | 09:25 | Ping: 170.55ms
-hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#🌐سرور 4 | hysteria2 | Far-02 | 09:25 | Ping: 246.18ms
-hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#🌐سرور 3 | hysteria2 | Far-02 | 09:25 | Ping: 195.45ms
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#🌐سرور 1 | hysteria2 | Far-02 | 10:28 | Ping: 147.56ms
+hysteria2://SNItest@37.18.14.169:443?security=tls&insecure=1&sni=megafon.ru#🌐سرور 4 | hysteria2 | Far-02 | 10:28 | Ping: 190.77ms
+hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#🌐سرور 3 | hysteria2 | Far-02 | 10:28 | Ping: 177.27ms
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#🌐سرور 2 | hysteria2 | Far-02 | 10:28 | Ping: 153.74ms
