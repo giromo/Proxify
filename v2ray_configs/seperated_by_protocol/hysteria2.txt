@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#🌐سرور 2 | hysteria2 | Far-02 | 22:11 | Ping: 177.60ms
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#🌐سرور 1 | hysteria2 | Far-02 | 22:11 | Ping: 153.42ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9D%99%81%F0%9D%99%A7%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%98%F0%9D%99%9A🇫🇷
