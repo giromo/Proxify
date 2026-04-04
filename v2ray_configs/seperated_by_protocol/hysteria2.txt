@@ -3,6 +3,4 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://ce147ad3-81a9-4623-9952-9621afc716a1@hkaws.ccwink.photos:58?insecure=1&sni=moak.ccwink.cc#🌐سرور 2 | hysteria2 | Far-15 | 06:00 | Ping: 518.19ms
-hysteria2://ce147ad3-81a9-4623-9952-9621afc716a1@hkaws.ccwink.photos:58?insecure=1&sni=moak.ccwink.cc#🌐سرور 3 | hysteria2 | Far-15 | 06:00 | Ping: 518.22ms
-hysteria2://rstnnl@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#🌐سرور 1 | hysteria2 | Far-15 | 06:00 | Ping: 124.58ms
+hysteria2://rstnnl@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#🌐سرور 1 | hysteria2 | Far-15 | 08:22 | Ping: 152.11ms
