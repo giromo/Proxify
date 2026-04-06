@@ -3,9 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 2 | hysteria2 | Far-17 | 17:58 | Ping: 89.96ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 1 | hysteria2 | Far-17 | 17:58 | Ping: 88.09ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 4 | hysteria2 | Far-17 | 17:58 | Ping: 94.01ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 5 | hysteria2 | Far-17 | 17:58 | Ping: 101.34ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 6 | hysteria2 | Far-17 | 17:58 | Ping: 103.75ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 3 | hysteria2 | Far-17 | 17:58 | Ping: 91.29ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 4 | hysteria2 | Far-17 | 19:22 | Ping: 117.54ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 3 | hysteria2 | Far-17 | 19:22 | Ping: 116.73ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 5 | hysteria2 | Far-17 | 19:22 | Ping: 150.39ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 2 | hysteria2 | Far-17 | 19:22 | Ping: 115.41ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 1 | hysteria2 | Far-17 | 19:22 | Ping: 108.70ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 6 | hysteria2 | Far-17 | 19:22 | Ping: 152.02ms
