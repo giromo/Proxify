@@ -3,13 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 6 | hysteria2 | Far-17 | 03:07 | Ping: 139.88ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 5 | hysteria2 | Far-17 | 03:07 | Ping: 139.83ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 1 | hysteria2 | Far-17 | 03:07 | Ping: 130.15ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 2 | hysteria2 | Far-17 | 03:07 | Ping: 134.76ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 8 | hysteria2 | Far-17 | 03:07 | Ping: 139.97ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 9 | hysteria2 | Far-17 | 03:07 | Ping: 140.29ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 7 | hysteria2 | Far-17 | 03:07 | Ping: 139.91ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 4 | hysteria2 | Far-17 | 03:07 | Ping: 139.81ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 3 | hysteria2 | Far-17 | 03:07 | Ping: 137.74ms
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-sg.onetaplink.app#🌐سرور 10 | hysteria2 | Far-17 | 03:07 | Ping: 251.67ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 4 | hysteria2 | Far-17 | 06:19 | Ping: 87.43ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 8 | hysteria2 | Far-17 | 06:19 | Ping: 87.91ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 9 | hysteria2 | Far-17 | 06:19 | Ping: 87.98ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 1 | hysteria2 | Far-17 | 06:19 | Ping: 84.54ms
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?obfs=salamander&obfs-password=OrT7yQQIMqcvKdet&sni=hy2-sg.onetaplink.app#🌐سرور 10 | hysteria2 | Far-17 | 06:19 | Ping: 326.88ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 6 | hysteria2 | Far-17 | 06:19 | Ping: 87.70ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 7 | hysteria2 | Far-17 | 06:19 | Ping: 87.75ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 5 | hysteria2 | Far-17 | 06:19 | Ping: 87.53ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 3 | hysteria2 | Far-17 | 06:19 | Ping: 86.61ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 2 | hysteria2 | Far-17 | 06:19 | Ping: 84.91ms
