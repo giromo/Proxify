@@ -3,9 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 1 | hysteria2 | Far-17 | 22:36 | Ping: 87.62ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 2 | hysteria2 | Far-17 | 22:36 | Ping: 87.76ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 5 | hysteria2 | Far-17 | 22:36 | Ping: 126.85ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 6 | hysteria2 | Far-17 | 22:36 | Ping: 127.50ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 4 | hysteria2 | Far-17 | 22:36 | Ping: 108.49ms
-hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443/?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 3 | hysteria2 | Far-17 | 22:36 | Ping: 107.34ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.201.25.156:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 2 | hysteria2 | Far-17 | 23:29 | Ping: 142.26ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@84.200.91.118:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 1 | hysteria2 | Far-17 | 23:29 | Ping: 140.53ms
+hysteria2://0f771058-7892-4d46-b77e-a69e811b9cbc@89.124.73.31:443?insecure=1&sni=hls-svod.itunes.apple.com#🌐سرور 3 | hysteria2 | Far-17 | 23:29 | Ping: 182.22ms
