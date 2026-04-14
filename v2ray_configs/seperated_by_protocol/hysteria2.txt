@@ -3,7 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#🌐سرور 1 | hysteria2 | Far-25 | 06:21 | Ping: 87.58ms
-hysteria2://rstnnl@nrealistic.nn-foto.ru:443?insecure=1&sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W#🌐سرور 2 | hysteria2 | Far-25 | 06:21 | Ping: 153.00ms
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?obfs=salamander&obfs-password=CF7WJGiw6r1c8imX&sni=hy2-jp.onetaplink.app#🌐سرور 3 | hysteria2 | Far-25 | 06:21 | Ping: 175.94ms
-hysteria2://rstnnl@musicclips.videolinks.ru:443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#🌐سرور 4 | hysteria2 | Far-25 | 06:21 | Ping: 362.97ms
+hysteria2://rstnnl@nrealistic.nn-foto.ru:443?insecure=1&sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W#🌐سرور 2 | hysteria2 | Far-25 | 08:57 | Ping: 516.35ms
+hysteria2://rstnnl@musicclips.videolinks.ru:443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#🌐سرور 1 | hysteria2 | Far-25 | 08:57 | Ping: 402.02ms
+hy2://zhangyang@130.61.50.75:6443/#%F0%9D%99%82%F0%9D%99%9A%F0%9D%99%A7%F0%9D%99%A2%F0%9D%99%96%F0%9D%99%A3%F0%9D%99%AE🇩🇪
