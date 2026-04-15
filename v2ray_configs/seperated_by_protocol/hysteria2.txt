@@ -4,5 +4,5 @@
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9D%98%BE%F0%9D%99%81🌐
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#🌐سرور 1 | hysteria2 | Far-27 | 00:25 | Ping: 117.23ms
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#🌐سرور 1 | hysteria2 | Far-27 | 01:26 | Ping: 111.09ms
 hy2://zhangyang@130.61.50.75:6443/#%F0%9D%98%BE%F0%9D%99%81🌐
