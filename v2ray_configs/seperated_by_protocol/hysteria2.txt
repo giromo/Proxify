@@ -3,4 +3,5 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?obfs=salamander&obfs-password=CF7WJGiw6r1c8imX&sni=hy2-jp.onetaplink.app#🌐سرور 1 | hysteria2 | Far-28 | 06:21 | Ping: 178.00ms
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&insecure=1&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Far-28 | 15:36 | Ping: 89.18ms
+hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Far-28 | 15:36 | Ping: 88.53ms
