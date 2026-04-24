@@ -3,6 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-04 | 19:09 | Ping: 132.11ms
-hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#🌐سرور 3 | hysteria2 | Ord-04 | 19:09 | Ping: 149.05ms
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#🌐سرور 2 | hysteria2 | Ord-04 | 19:09 | Ping: 136.63ms
+hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#🌐سرور 3 | hysteria2 | Ord-04 | 20:30 | Ping: 164.71ms
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com&mport=41000-42000#🌐سرور 1 | hysteria2 | Ord-04 | 20:30 | Ping: 158.12ms
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Ord-04 | 20:30 | Ping: 163.35ms
