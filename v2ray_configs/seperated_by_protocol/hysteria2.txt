@@ -3,7 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?insecure=1&sni=hy2-sg.onetaplink.app&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet#🌐سرور 3 | hysteria2 | Ord-05 | 23:19 | Ping: 239.17ms
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-05 | 23:19 | Ping: 105.46ms
-hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#🌐سرور 2 | hysteria2 | Ord-05 | 23:19 | Ping: 110.17ms
+hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#🌐سرور 2 | hysteria2 | Ord-06 | 00:12 | Ping: 113.88ms
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?insecure=1&sni=hy2-sg.onetaplink.app&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet#🌐سرور 5 | hysteria2 | Ord-06 | 00:12 | Ping: 254.02ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?insecure=1&sni=vpn-jp-001.fastervpn.world#🌐سرور 3 | hysteria2 | Ord-06 | 00:12 | Ping: 162.81ms
 hy2://123456789StrongPass@144.31.224.14:443/?insecure=1&sni=www.cloudflare.com#%F0%9D%98%BE%F0%9D%99%81🌐
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-06 | 00:12 | Ping: 105.67ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?insecure=1&sni=vpn-jp-001.fastervpn.world#🌐سرور 4 | hysteria2 | Ord-06 | 00:12 | Ping: 166.55ms
