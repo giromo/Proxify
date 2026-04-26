@@ -3,7 +3,5 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?insecure=1&sni=hy2-sg.onetaplink.app&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet#🌐سرور 4 | hysteria2 | Ord-06 | 16:55 | Ping: 244.73ms
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Ord-06 | 16:55 | Ping: 105.98ms
-hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#🌐سرور 3 | hysteria2 | Ord-06 | 16:55 | Ping: 132.32ms
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-06 | 16:55 | Ping: 105.40ms
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#🌐سرور 1 | hysteria2 | Ord-06 | 18:19 | Ping: 141.18ms
+hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#🌐سرور 2 | hysteria2 | Ord-06 | 18:19 | Ping: 160.67ms
