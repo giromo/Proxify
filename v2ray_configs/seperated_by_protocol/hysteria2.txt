@@ -3,8 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#🌐سرور 4 | hysteria2 | Ord-08 | 23:48 | Ping: 187.18ms
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@usa-hy2.onetaplink.app:443?insecure=0&sni=hy2-usa.onetaplink.app&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet#🌐سرور 2 | hysteria2 | Ord-08 | 23:48 | Ping: 93.55ms
-hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#🌐سرور 3 | hysteria2 | Ord-08 | 23:48 | Ping: 100.15ms
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-08 | 23:48 | Ping: 80.94ms
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?insecure=1&sni=hy2-sg.onetaplink.app&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet#🌐سرور 5 | hysteria2 | Ord-08 | 23:48 | Ping: 265.55ms
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@sg-hy2.onetaplink.app:443?insecure=1&sni=hy2-sg.onetaplink.app&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet#🌐سرور 5 | hysteria2 | Ord-09 | 01:31 | Ping: 347.09ms
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@usa-hy2.onetaplink.app:443?insecure=0&sni=hy2-usa.onetaplink.app&obfs=salamander&obfs-password=OrT7yQQIMqcvKdet#🌐سرور 3 | hysteria2 | Ord-09 | 01:31 | Ping: 148.00ms
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-09 | 01:31 | Ping: 85.11ms
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#🌐سرور 4 | hysteria2 | Ord-09 | 01:31 | Ping: 206.99ms
+hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#🌐سرور 2 | hysteria2 | Ord-09 | 01:31 | Ping: 104.66ms
