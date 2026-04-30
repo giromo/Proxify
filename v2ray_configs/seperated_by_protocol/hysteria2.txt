@@ -3,9 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://de8e0342-ea12-4f9d-bc2a-e62409e1913f@zz.66jc.xyz:20003?insecure=1&sni=hkzz.66jc.xyz&obfs=salamander&obfs-password=YmGRdMZ74sEC91FN#🌐سرور 6 | hysteria2 | Ord-10 | 02:42 | Ping: 255.06ms
-hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#🌐سرور 4 | hysteria2 | Ord-10 | 02:42 | Ping: 184.40ms
-hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#🌐سرور 2 | hysteria2 | Ord-10 | 02:42 | Ping: 110.71ms
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-10 | 02:42 | Ping: 105.35ms
-hysteria2://f8af73ed-363a-4dfb-b99f-65bd8ad1a329@jpaws.ccwink.photos:6533?insecure=1&sni=jpdigital.ccwink.cc#🌐سرور 3 | hysteria2 | Ord-10 | 02:42 | Ping: 161.58ms
-hysteria2://de8e0342-ea12-4f9d-bc2a-e62409e1913f@zz.66jc.xyz:20003?insecure=1&obfs=salamander&obfs-password=YmGRdMZ74sEC91FN&sni=hkzz.66jc.xyz#🌐سرور 5 | hysteria2 | Ord-10 | 02:42 | Ping: 245.19ms
+hysteria2://de8e0342-ea12-4f9d-bc2a-e62409e1913f@zz.66jc.xyz:20003?insecure=1&sni=hkzz.66jc.xyz&obfs=salamander&obfs-password=YmGRdMZ74sEC91FN#🌐سرور 5 | hysteria2 | Ord-10 | 03:39 | Ping: 234.97ms
+hysteria2://de8e0342-ea12-4f9d-bc2a-e62409e1913f@zz.66jc.xyz:20003?insecure=1&obfs=salamander&obfs-password=YmGRdMZ74sEC91FN&sni=hkzz.66jc.xyz#🌐سرور 6 | hysteria2 | Ord-10 | 03:39 | Ping: 255.55ms
+hysteria2://48b36b6a-eaa6-4843-9231-0bb8b38b5da5@jp-hy2.onetaplink.app:5443?sni=hy2-jp.onetaplink.app&obfs=salamander&obfs-password=CF7WJGiw6r1c8imX#🌐سرور 4 | hysteria2 | Ord-10 | 03:39 | Ping: 234.33ms
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-10 | 03:39 | Ping: 81.14ms
+hysteria2://hysteria_master_password@72.56.122.195:443/?insecure=1&sni=google.com#🌐سرور 2 | hysteria2 | Ord-10 | 03:39 | Ping: 99.30ms
+hysteria2://f8af73ed-363a-4dfb-b99f-65bd8ad1a329@jpaws.ccwink.photos:6533?insecure=1&sni=jpdigital.ccwink.cc#🌐سرور 3 | hysteria2 | Ord-10 | 03:39 | Ping: 173.83ms
