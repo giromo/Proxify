@@ -3,8 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:88?insecure=1&sni=hkak.ccwink.cc#🌐سرور 2 | hysteria2 | Ord-15 | 19:55 | Ping: 210.62ms
-hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@jpaws.ccwink.photos:88?insecure=1&sni=hkak.ccwink.cc#🌐سرور 4 | hysteria2 | Ord-15 | 19:55 | Ping: 310.44ms
-hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:88?insecure=1&sni=hkak.ccwink.cc#🌐سرور 1 | hysteria2 | Ord-15 | 19:55 | Ping: 208.53ms
-hysteria2://dongtaiwang.com@163.172.113.118:40022/?insecure=1&sni=www.microsoft.com#%F0%9D%98%BE%F0%9D%99%81🌐
-hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@jpaws.ccwink.photos:6533?insecure=1&sni=jpdigital.ccwink.cc#🌐سرور 3 | hysteria2 | Ord-15 | 19:55 | Ping: 304.37ms
+hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@jpaws.ccwink.photos:6533?insecure=1&fp=&sni=jpdigital.ccwink.cc&obfs=&obfs-password=#🌐سرور 1 | hysteria2 | Ord-15 | 21:42 | Ping: 148.22ms
+hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:88?insecure=1&sni=hkak.ccwink.cc#🌐سرور 3 | hysteria2 | Ord-15 | 21:42 | Ping: 190.05ms
+hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:88?insecure=1&sni=hkak.ccwink.cc#🌐سرور 5 | hysteria2 | Ord-15 | 21:42 | Ping: 209.44ms
+hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@hkaws.ccwink.photos:6533?insecure=1&sni=jpdigital.ccwink.cc#🌐سرور 4 | hysteria2 | Ord-15 | 21:42 | Ping: 200.58ms
+hysteria2://9e0f72bb-7ad6-4383-994a-497569a94d74@jpaws.ccwink.photos:88?insecure=1&sni=hkak.ccwink.cc#🌐سرور 2 | hysteria2 | Ord-15 | 21:42 | Ping: 163.91ms
