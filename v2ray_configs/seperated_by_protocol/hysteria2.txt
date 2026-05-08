@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-jp-001.fastervpn.world:443?insecure=1&sni=vpn-jp-001.fastervpn.world#🌐سرور 2 | hysteria2 | Ord-18 | 02:44 | Ping: 177.49ms
-hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-18 | 02:44 | Ping: 108.53ms
+hysteria2://dongtaiwang.com@163.172.113.118:40022?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-18 | 03:40 | Ping: 89.08ms
