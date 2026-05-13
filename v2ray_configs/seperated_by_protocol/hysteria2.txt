@@ -3,4 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1&fp=&sni=&obfs=&obfs-password=#🌐سرور 1 | hysteria2 | Ord-23 | 07:45 | Ping: 86.42ms
+hysteria2://cca70979-4f99-449b-9a01-a3ad8d3d4481@142.171.241.143:41555?insecure=1#🌐سرور 3 | hysteria2 | Ord-23 | 19:29 | Ping: 49.35ms
+hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1#🌐سرور 2 | hysteria2 | Ord-23 | 19:29 | Ping: 48.58ms
+hysteria2://4ea3d542-c5a9-4f8e-9bce-d6f0e75e0fda@107.172.224.252:31663?insecure=1#🌐سرور 1 | hysteria2 | Ord-23 | 19:29 | Ping: 48.47ms
