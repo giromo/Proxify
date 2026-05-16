@@ -3,10 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Ord-27 | 01:23 | Ping: 146.24ms
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&alpn=h3&fp=&sni=s516.okgfw.top&obfs=&obfs-password=#🌐سرور 6 | hysteria2 | Ord-27 | 01:23 | Ping: 206.15ms
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@154.83.84.58:443?sni=s488.ccgfw.online#🌐سرور 3 | hysteria2 | Ord-27 | 01:23 | Ping: 147.10ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-27 | 01:23 | Ping: 144.81ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 4 | hysteria2 | Ord-27 | 01:23 | Ping: 151.41ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🌐سرور 5 | hysteria2 | Ord-27 | 01:23 | Ping: 152.66ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.109:443?insecure=1&sni=116.206.92.109#🌐سرور 7 | hysteria2 | Ord-27 | 01:23 | Ping: 456.23ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-27 | 02:20 | Ping: 86.83ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Ord-27 | 02:20 | Ping: 87.34ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@116.206.92.109:443?insecure=1&sni=116.206.92.109#🌐سرور 6 | hysteria2 | Ord-27 | 02:20 | Ping: 187.68ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 3 | hysteria2 | Ord-27 | 02:20 | Ping: 87.97ms
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&alpn=h3&fp=&sni=s516.okgfw.top&obfs=&obfs-password=#🌐سرور 5 | hysteria2 | Ord-27 | 02:20 | Ping: 166.63ms
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@154.83.84.58:443?sni=s488.ccgfw.online#🌐سرور 7 | hysteria2 | Ord-27 | 02:20 | Ping: 207.78ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 4 | hysteria2 | Ord-27 | 02:20 | Ping: 89.13ms
