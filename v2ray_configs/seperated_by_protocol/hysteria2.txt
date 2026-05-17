@@ -3,7 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?sni=s516.okgfw.top#🌐سرور 3 | hysteria2 | Ord-27 | 23:40 | Ping: 164.94ms
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?insecure=0&alpn=h3&fp=&sni=s463.okgfwbackxyz.xyz&obfs=&obfs-password=#🌐سرور 4 | hysteria2 | Ord-27 | 23:40 | Ping: 168.61ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-27 | 23:40 | Ping: 87.89ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Ord-27 | 23:40 | Ping: 88.38ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.25.232:443?insecure=1&sni=https://t.me/WangCai2🇨🇳#🌐سرور 5 | hysteria2 | Ord-28 | 00:39 | Ping: 235.52ms
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?sni=s516.okgfw.top#🌐سرور 3 | hysteria2 | Ord-28 | 00:39 | Ping: 167.78ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Ord-28 | 00:39 | Ping: 92.22ms
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@193.53.126.108:443?insecure=0&alpn=h3&fp=&sni=s463.okgfwbackxyz.xyz&obfs=&obfs-password=#🌐سرور 4 | hysteria2 | Ord-28 | 00:39 | Ping: 169.41ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Ord-28 | 00:39 | Ping: 88.53ms
