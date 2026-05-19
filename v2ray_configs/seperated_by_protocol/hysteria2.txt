@@ -3,6 +3,6 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&sni=s516.okgfw.top#🌐سرور 3 | hysteria2 | Ord-29 | 14:52 | Ping: 168.50ms
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&sni=s516.okgfw.top#🌐سرور 2 | hysteria2 | Ord-29 | 14:52 | Ping: 167.80ms
-hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?sni=s559.ccgfw.top#🌐سرور 1 | hysteria2 | Ord-29 | 14:52 | Ping: 74.87ms
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@185.106.96.231:443?sni=s559.ccgfw.top#🌐سرور 3 | hysteria2 | Ord-29 | 19:01 | Ping: 215.06ms
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&sni=s516.okgfw.top#🌐سرور 2 | hysteria2 | Ord-29 | 19:01 | Ping: 173.00ms
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?insecure=0&sni=s516.okgfw.top#🌐سرور 1 | hysteria2 | Ord-29 | 19:01 | Ping: 165.64ms
