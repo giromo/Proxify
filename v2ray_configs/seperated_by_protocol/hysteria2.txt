@@ -3,9 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60009?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#🌐سرور 4 | hysteria2 | Kho-05 | 01:40 | Ping: 73.52ms
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@84.200.33.151:2056?insecure=1&sni=nlb1.mangshe.xyz#🌐سرور 6 | hysteria2 | Kho-05 | 01:40 | Ping: 130.81ms
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60006?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#🌐سرور 2 | hysteria2 | Kho-05 | 01:40 | Ping: 71.46ms
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60010?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#🌐سرور 3 | hysteria2 | Kho-05 | 01:40 | Ping: 71.62ms
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60020?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A%3D%3D&sni=zf.9966690.xyz#🌐سرور 1 | hysteria2 | Kho-05 | 01:40 | Ping: 70.44ms
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@84.200.33.151:2056?insecure=1&sni=nlb1.mangshe.xyz#🌐سرور 5 | hysteria2 | Kho-05 | 01:40 | Ping: 129.18ms
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60006?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#🌐سرور 3 | hysteria2 | Kho-05 | 03:03 | Ping: 101.74ms
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60009?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#🌐سرور 6 | hysteria2 | Kho-05 | 03:03 | Ping: 106.04ms
+hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@84.200.33.151:2056?insecure=1&sni=nlb1.mangshe.xyz#🌐سرور 2 | hysteria2 | Kho-05 | 03:03 | Ping: 88.29ms
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60010?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA%3D%3D&sni=zf.9966690.xyz#🌐سرور 5 | hysteria2 | Kho-05 | 03:03 | Ping: 105.91ms
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60020?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A%3D%3D&sni=zf.9966690.xyz#🌐سرور 4 | hysteria2 | Kho-05 | 03:03 | Ping: 104.83ms
+hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@84.200.33.151:2056?insecure=1&sni=nlb1.mangshe.xyz#🌐سرور 1 | hysteria2 | Kho-05 | 03:03 | Ping: 87.91ms
