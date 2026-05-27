@@ -3,4 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60007?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#🌐سرور 1 | hysteria2 | Kho-06 | 01:52 | Ping: 345.04ms
+hysteria2://9d0f6021-e1e3-47cd-a18e-722dd7f1c2ee@154.85.18.134:443,55000-56000?insecure=1&sni=www.bing.com#🌐سرور 4 | hysteria2 | Kho-06 | 03:39 | Ping: 133.77ms
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60017?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A==#🌐سرور 1 | hysteria2 | Kho-06 | 03:39 | Ping: 57.29ms
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfin.9966690.xyz:60008?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#🌐سرور 5 | hysteria2 | Kho-06 | 03:39 | Ping: 223.78ms
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60007?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#🌐سرور 6 | hysteria2 | Kho-06 | 03:39 | Ping: 232.50ms
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfde.9966690.xyz:60020?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk42TU23T365A==#🌐سرور 2 | hysteria2 | Kho-06 | 03:39 | Ping: 108.34ms
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zfde.9966690.xyz:60010?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#🌐سرور 3 | hysteria2 | Kho-06 | 03:39 | Ping: 127.56ms
+hysteria2://a7c5d30b-ce9b-4e34-b5cb-66f8308790ef@zf.9966690.xyz:60006?insecure=1&obfs=salamander&obfs-password=YzgyOTkwNDk4ZTU2NTdiNA==#🌐سرور 7 | hysteria2 | Kho-06 | 03:39 | Ping: 232.53ms
