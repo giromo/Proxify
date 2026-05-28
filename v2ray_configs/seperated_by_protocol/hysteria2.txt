@@ -3,5 +3,5 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://0wg3zH68LL6S91ueKHvZFxWM@hy2.lingshichat.top:443?sni=hy2.lingshichat.top#🌐سرور 1 | hysteria2 | Kho-07 | 15:22 | Ping: 101.56ms
-hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@150.129.10.140:443?sni=s614.ccgfw.online#🌐سرور 2 | hysteria2 | Kho-07 | 15:22 | Ping: 135.21ms
+hysteria2://0wg3zH68LL6S91ueKHvZFxWM@hy2.lingshichat.top:443?sni=hy2.lingshichat.top#🌐سرور 2 | hysteria2 | Kho-07 | 19:35 | Ping: 320.43ms
+hysteria2://6d49fae1-374d-313e-b360-1227b0ea8dea@150.129.10.140:443?sni=s614.ccgfw.online#🌐سرور 1 | hysteria2 | Kho-07 | 19:35 | Ping: 105.12ms
