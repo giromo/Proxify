@@ -3,10 +3,10 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
+hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@kh2.yuntong.click:443?insecure=0&fp=&sni=kh2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#🌐سرور 6 | hysteria2 | Kho-10 | 15:22 | Ping: 216.08ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 3 | hysteria2 | Kho-10 | 15:22 | Ping: 148.06ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 5 | hysteria2 | Kho-10 | 15:22 | Ping: 153.15ms
 hysteria2://bce6c821-200d-421f-bf3d-7159e5246ea0@hy2.123266.xyz:33333?security=tls&insecure=1&sni=hy2.123266.xyz#%40hi_proxy_iran%20%3A%F0%9F%91%88%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@kh2.yuntong.click:443?insecure=0&fp=&sni=kh2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#🌐سرور 6 | hysteria2 | Kho-10 | 11:22 | Ping: 317.54ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Kho-10 | 11:22 | Ping: 88.03ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Kho-10 | 11:22 | Ping: 89.87ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 5 | hysteria2 | Kho-10 | 11:22 | Ping: 91.48ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🌐سرور 4 | hysteria2 | Kho-10 | 11:22 | Ping: 91.31ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 3 | hysteria2 | Kho-10 | 11:22 | Ping: 90.58ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#🌐سرور 4 | hysteria2 | Kho-10 | 15:22 | Ping: 148.54ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Kho-10 | 15:22 | Ping: 144.10ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Kho-10 | 15:22 | Ping: 143.88ms
