@@ -3,15 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://Masir_Sefid@18.185.89.204:59826?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%40NCenterServices
-hysteria2://Masir_Sefid@18.185.89.204:2083?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%40NCenterServices`
-hysteria2://Masir_Sefid@18.198.106.153:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🌐سرور 1 | hysteria2 | Kho-12 | 20:08 | Ping: 89.74ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#🌐سرور 5 | hysteria2 | Kho-12 | 20:08 | Ping: 91.84ms
-hysteria2://Masir_Sefid@18.185.89.204:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%40NCenterServices
-hysteria2://Masir_Sefid@18.198.106.153:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🌐سرور 4 | hysteria2 | Kho-12 | 20:08 | Ping: 91.14ms
-hysteria2://Masir_Sefid@18.153.46.206:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🌐سرور 3 | hysteria2 | Kho-12 | 20:08 | Ping: 90.06ms
-hysteria2://Masir_Sefid@18.185.89.204:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%40NCenterServices
+hysteria2://Masir_Sefid@18.196.180.90:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#🌐سرور 4 | hysteria2 | Kho-12 | 23:37 | Ping: 154.35ms
 hysteria2://Masir_Sefid@18.185.89.204:48?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%40NCenterServices
-hysteria2://Masir_Sefid@18.196.180.90:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🌐سرور 2 | hysteria2 | Kho-12 | 20:08 | Ping: 89.92ms
-hysteria2://68cf2e7761c240d9ba4c31f99ab37a9f@157.22.241.242:443?insecure=0&sni=157.22.241.242#🌐سرور 6 | hysteria2 | Kho-12 | 20:08 | Ping: 119.93ms
+hysteria2://Masir_Sefid@18.198.106.153:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🌐سرور 2 | hysteria2 | Kho-12 | 23:37 | Ping: 151.29ms
+hysteria2://Masir_Sefid@18.185.89.204:59826?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%40NCenterServices
+hysteria2://Masir_Sefid@18.198.106.153:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🌐سرور 3 | hysteria2 | Kho-12 | 23:37 | Ping: 152.22ms
+hysteria2://Masir_Sefid@18.185.89.204:44044?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%40NCenterServices
+hysteria2://Masir_Sefid@18.185.89.204:2083?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%40NCenterServices`
+hysteria2://Masir_Sefid@18.185.89.204:54040?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%40NCenterServices
+hysteria2://Masir_Sefid@18.198.106.153:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#🌐سرور 1 | hysteria2 | Kho-12 | 23:37 | Ping: 148.52ms
 hysteria2://Masir_Sefid@18.185.89.204:15?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#%40NCenterServices
