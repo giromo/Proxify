@@ -3,10 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@fd.gotogle.com:443?insecure=0&sni=fd.gotogle.com#🌐سرور 6 | hysteria2 | Kho-13 | 10:25 | Ping: 210.28ms
-hysteria2://Masir_Sefid@18.198.106.153:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🌐سرور 2 | hysteria2 | Kho-13 | 10:25 | Ping: 119.06ms
-hysteria2://205d6869-02ca-3b36-b933-be2465250c7e@108.160.134.123:443?sni=u716087us1364.csgfw.top#🌐سرور 4 | hysteria2 | Kho-13 | 10:25 | Ping: 136.30ms
-hysteria2://Masir_Sefid@18.198.106.153:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🌐سرور 1 | hysteria2 | Kho-13 | 10:25 | Ping: 118.74ms
-hysteria2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@fd.gotogle.com:443?alpn=h3&sni=fd.gotogle.com#🌐سرور 5 | hysteria2 | Kho-13 | 10:25 | Ping: 145.34ms
-hysteria2://Masir_Sefid@18.198.106.153:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#🌐سرور 3 | hysteria2 | Kho-13 | 10:25 | Ping: 124.16ms
-hysteria2://205d6869-02ca-3b36-b933-be2465250c7e@139.84.155.186:443?sni=u716087us1441.csgfw.top#🌐سرور 7 | hysteria2 | Kho-13 | 10:25 | Ping: 234.97ms
+hysteria2://Masir_Sefid@18.198.106.153:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#🌐سرور 1 | hysteria2 | Kho-13 | 15:28 | Ping: 131.96ms
+hysteria2://Masir_Sefid@18.198.106.153:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🌐سرور 3 | hysteria2 | Kho-13 | 15:28 | Ping: 135.26ms
+hysteria2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@fd.gotogle.com:443?alpn=h3&sni=fd.gotogle.com#🌐سرور 6 | hysteria2 | Kho-13 | 15:28 | Ping: 301.40ms
+hysteria2://205d6869-02ca-3b36-b933-be2465250c7e@139.84.155.186:443?sni=u716087us1441.csgfw.top#🌐سرور 5 | hysteria2 | Kho-13 | 15:28 | Ping: 260.74ms
+hysteria2://7ce9a8d0-2cb2-4b8d-8de9-262c1d6597ac@gy.gotogle.com:443?alpn=h3&sni=gy.gotogle.com#🌐سرور 4 | hysteria2 | Kho-13 | 15:28 | Ping: 252.53ms
+hysteria2://Masir_Sefid@18.198.106.153:443?security=tls&obfs=salamander&obfs-password=Masir_Sefid&insecure=0&sni=qus.masir-sefid.shop#🌐سرور 2 | hysteria2 | Kho-13 | 15:28 | Ping: 132.25ms
