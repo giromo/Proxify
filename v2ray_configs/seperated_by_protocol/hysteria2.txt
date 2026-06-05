@@ -3,5 +3,4 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://masir_sefid@3.121.136.75:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#🌐سرور 1 | hysteria2 | Kho-16 | 00:20 | Ping: 90.46ms
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,2053,2083,2087,2096,8443&sni=content.masir-sefid.shop#🌐سرور 2 | hysteria2 | Kho-16 | 00:20 | Ping: 97.02ms
+hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,2053,2083,2087,2096,8443&sni=content.masir-sefid.shop#🌐سرور 1 | hysteria2 | Kho-16 | 01:46 | Ping: 175.65ms
