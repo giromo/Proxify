@@ -3,10 +3,12 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?security=tls&obfs=salamander&obfs-password=https://speed.cloudflare.com&insecure=0&sni=xuipanel.akgoldvip.shop#🌐سرور 6 | hysteria2 | Kho-17 | 21:36 | Ping: 101.32ms
+hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?insecure=0&sni=xuipanel.akgoldvip.shop&obfs=salamander&obfs-password=https://speed.cloudflare.com#🌐سرور 1 | hysteria2 | Kho-17 | 23:18 | Ping: 152.65ms
+hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?security=tls&obfs=salamander&obfs-password=https://speed.cloudflare.com&insecure=0&sni=xuipanel.akgoldvip.shop#🌐سرور 5 | hysteria2 | Kho-17 | 23:18 | Ping: 153.27ms
+hysteria2://Masir_Sefid@18.193.90.31:443?insecure=0&sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#🌐سرور 7 | hysteria2 | Kho-17 | 23:18 | Ping: 156.23ms
+hysteria2://masir_sefid@18.194.63.255:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#🌐سرور 2 | hysteria2 | Kho-17 | 23:18 | Ping: 152.68ms
+hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?security=tls&obfs=salamander&obfs-password=https%3A%2F%2Fspeed.cloudflare.com&insecure=0&sni=xuipanel.akgoldvip.shop#🌐سرور 3 | hysteria2 | Kho-17 | 23:18 | Ping: 153.07ms
+hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?security=tls&obfs=salamander&obfs-password=https://speed.cloudflare.com&insecure=0&sni=xuipanel.akgoldvip.shop#🌐سرور 4 | hysteria2 | Kho-17 | 23:18 | Ping: 153.24ms
 hysteria2://b880e510-8196-44bb-b715-781a9461b4a0@aestheticperforator.ru:8443?security=tls&insecure=0&sni=aestheticperforator.ru#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AA
-hysteria2://masir_sefid@18.194.63.255:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,500-56000&sni=content.masir-sefid.shop#🌐سرور 2 | hysteria2 | Kho-17 | 21:36 | Ping: 89.82ms
-hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,2053,2083,2087,2096,8443&sni=content.masir-sefid.shop#🌐سرور 4 | hysteria2 | Kho-17 | 21:36 | Ping: 95.19ms
-hysteria2://Masir_Sefid@18.193.90.31:443?insecure=0&sni=qs.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#🌐سرور 1 | hysteria2 | Kho-17 | 21:36 | Ping: 88.20ms
-hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?security=tls&obfs=salamander&obfs-password=https%3A%2F%2Fspeed.cloudflare.com&insecure=0&sni=xuipanel.akgoldvip.shop#🌐سرور 3 | hysteria2 | Kho-17 | 21:36 | Ping: 93.07ms
-hysteria2://0xver2tkqad4kvr4@134.122.86.55:443?security=tls&obfs=salamander&obfs-password=https://speed.cloudflare.com&insecure=0&sni=xuipanel.akgoldvip.shop#🌐سرور 5 | hysteria2 | Kho-17 | 21:36 | Ping: 97.39ms
+hysteria2://masir_sefid@18.194.63.255:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443,500-56000&sni=content.masir-sefid.shop#🌐سرور 6 | hysteria2 | Kho-17 | 23:18 | Ping: 153.56ms
+hysteria2://masir_sefid@18.157.51.145:443?security=tls&obfs=salamander&obfs-password=masir_sefid&insecure=0&mport=443%2C2053%2C2083%2C2087%2C2096%2C8443&sni=content.masir-sefid.shop#🌐سرور 8 | hysteria2 | Kho-17 | 23:18 | Ping: 184.30ms
