@@ -3,25 +3,24 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us6.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 14 | hysteria2 | Kho-21 | 01:34 | Ping: 190.08ms
-hysteria2://%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E8%8A%82%E7%82%B9@starlink-ca.mfa.cat:20000?insecure=1&sni=www.cloudflare.com#🌐سرور 1 | hysteria2 | Kho-21 | 01:34 | Ping: 18.26ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg5.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 17 | hysteria2 | Kho-21 | 01:34 | Ping: 231.92ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp2.mfa.cat:20443?insecure=1&sni=www.cloudflare.com#🌐سرور 8 | hysteria2 | Kho-21 | 01:34 | Ping: 164.13ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us4.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 7 | hysteria2 | Kho-21 | 01:34 | Ping: 122.88ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#🌐سرور 6 | hysteria2 | Kho-21 | 03:20 | Ping: 127.72ms
+hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@sg2.yuntong.click:443?security=tls&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=&insecure=0&sni=sg2.yuntong.click#🌐سرور 14 | hysteria2 | Kho-21 | 03:20 | Ping: 249.97ms
+hysteria2://%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E8%8A%82%E7%82%B9@starlink-ca.mfa.cat:20000?insecure=1&sni=www.cloudflare.com#🌐سرور 2 | hysteria2 | Kho-21 | 03:20 | Ping: 40.70ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg5.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 18 | hysteria2 | Kho-21 | 03:20 | Ping: 353.15ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-kr1.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 11 | hysteria2 | Kho-21 | 03:20 | Ping: 219.97ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp5.mfa.cat:20443?insecure=1&sni=www.cloudflare.com#🌐سرور 7 | hysteria2 | Kho-21 | 03:20 | Ping: 168.34ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg3.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 12 | hysteria2 | Kho-21 | 03:20 | Ping: 230.40ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us7.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 3 | hysteria2 | Kho-21 | 03:20 | Ping: 74.02ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg6.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 19 | hysteria2 | Kho-21 | 03:20 | Ping: 362.84ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us2.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 9 | hysteria2 | Kho-21 | 03:20 | Ping: 193.39ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us3.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 5 | hysteria2 | Kho-21 | 03:20 | Ping: 88.07ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg4.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 17 | hysteria2 | Kho-21 | 03:20 | Ping: 344.27ms
 hysteria2://b880e510-8196-44bb-b715-781a9461b4a0@aestheticperforator.ru:8443?security=tls&insecure=0&sni=aestheticperforator.ru#Channel%20id%3A%20%40ShadowProxy66%20%F0%9F%87%B8%F0%9F%87%AA
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp6.mfa.cat:20443?insecure=1&sni=www.cloudflare.com#🌐سرور 11 | hysteria2 | Kho-21 | 01:34 | Ping: 174.03ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp1.mfa.cat:20443?insecure=1&sni=www.cloudflare.com#🌐سرور 12 | hysteria2 | Kho-21 | 01:34 | Ping: 181.15ms
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@sg2.yuntong.click:443?security=tls&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=&insecure=0&sni=sg2.yuntong.click#🌐سرور 20 | hysteria2 | Kho-21 | 01:34 | Ping: 282.44ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us3.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 5 | hysteria2 | Kho-21 | 01:34 | Ping: 106.27ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us2.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 13 | hysteria2 | Kho-21 | 01:34 | Ping: 183.22ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp4.mfa.cat:20443?insecure=1&sni=www.cloudflare.com#🌐سرور 10 | hysteria2 | Kho-21 | 01:34 | Ping: 168.45ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp5.mfa.cat:20443?insecure=1&sni=www.cloudflare.com#🌐سرور 9 | hysteria2 | Kho-21 | 01:34 | Ping: 166.47ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#🌐سرور 4 | hysteria2 | Kho-21 | 01:34 | Ping: 96.49ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-tw1.mfa.cat:12401?insecure=1&sni=www.cloudflare.com#🌐سرور 16 | hysteria2 | Kho-21 | 01:34 | Ping: 208.33ms
-hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#%F0%9D%98%BE%F0%9D%99%81🌐
-hysteria2://%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E8%8A%82%E7%82%B9@starlink-ca.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 6 | hysteria2 | Kho-21 | 01:34 | Ping: 111.85ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-kr1.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 15 | hysteria2 | Kho-21 | 01:34 | Ping: 194.91ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-sg4.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 19 | hysteria2 | Kho-21 | 01:34 | Ping: 237.10ms
-hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@sg2.yuntong.click:443?insecure=0&sni=sg2.yuntong.click&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#🌐سرور 18 | hysteria2 | Kho-21 | 01:34 | Ping: 236.25ms
-hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us7.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 2 | hysteria2 | Kho-21 | 01:34 | Ping: 78.44ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 3 | hysteria2 | Kho-21 | 01:34 | Ping: 94.12ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us4.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 20 | hysteria2 | Kho-21 | 03:20 | Ping: 372.54ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp2.mfa.cat:20443?insecure=1&sni=www.cloudflare.com#🌐سرور 15 | hysteria2 | Kho-21 | 03:20 | Ping: 283.28ms
+hysteria2://%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E8%8A%82%E7%82%B9@starlink-mx.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 1 | hysteria2 | Kho-21 | 03:20 | Ping: 35.49ms
+hysteria2://%E5%8D%87%E7%BA%A7%E8%AE%A2%E9%98%85%E8%A7%A3%E9%94%81%E5%85%A8%E9%83%A8%E8%8A%82%E7%82%B9@starlink-br.mfa.cat:30000?insecure=1&sni=www.cloudflare.com#🌐سرور 13 | hysteria2 | Kho-21 | 03:20 | Ping: 240.43ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp3.mfa.cat:20443?insecure=1&sni=www.cloudflare.com#🌐سرور 10 | hysteria2 | Kho-21 | 03:20 | Ping: 202.18ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp6.mfa.cat:20443?insecure=1&sni=www.cloudflare.com#🌐سرور 16 | hysteria2 | Kho-21 | 03:20 | Ping: 309.84ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-jp4.mfa.cat:20443?insecure=1&sni=www.cloudflare.com#🌐سرور 8 | hysteria2 | Kho-21 | 03:20 | Ping: 174.42ms
+hysteria2://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-us1.mfa.cat:443?insecure=1&sni=www.cloudflare.com#🌐سرور 4 | hysteria2 | Kho-21 | 03:20 | Ping: 81.89ms
