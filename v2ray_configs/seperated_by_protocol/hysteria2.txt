@@ -3,9 +3,7 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#🌐سرور 1 | hysteria2 | Kho-23 | 00:35 | Ping: 160.45ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#🌐سرور 2 | hysteria2 | Kho-23 | 00:35 | Ping: 172.58ms
-hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@38.54.4.57:443?sni=kh2.yuntong.click&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#🌐سرور 5 | hysteria2 | Kho-23 | 00:35 | Ping: 190.46ms
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 4 | hysteria2 | Kho-23 | 00:35 | Ping: 177.02ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 3 | hysteria2 | Kho-23 | 00:35 | Ping: 176.10ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 6 | hysteria2 | Kho-23 | 00:35 | Ping: 229.58ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0#🌐سرور 1 | hysteria2 | Kho-23 | 02:18 | Ping: 98.10ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 2 | hysteria2 | Kho-23 | 02:18 | Ping: 134.85ms
+hysteria2://25cccf16-5693-4c6e-9bb9-0e38da7d4475@38.54.4.57:443?sni=kh2.yuntong.click&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=eNM/NfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo=#🌐سرور 4 | hysteria2 | Kho-23 | 02:18 | Ping: 256.23ms
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 3 | hysteria2 | Kho-23 | 02:18 | Ping: 207.33ms
