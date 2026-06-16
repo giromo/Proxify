@@ -3,13 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443/?obfs=salamander&obfs-password=EsimObfs_9mK2x7&sni=se.esimpson.org#🌐سرور 7 | hysteria2 | Kho-26 | 01:21 | Ping: 160.07ms
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 9 | hysteria2 | Kho-26 | 01:21 | Ping: 169.17ms
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#🌐سرور 8 | hysteria2 | Kho-26 | 01:21 | Ping: 165.71ms
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?sni=se.esimpson.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=EsimObfs_9mK2x7#🌐سرور 2 | hysteria2 | Kho-26 | 03:17 | Ping: 101.27ms
+hysteria2://dongtaiwang.com@62.210.10.108:22000?insecure=1&sni=www.microsoft.com#🌐سرور 6 | hysteria2 | Kho-26 | 03:17 | Ping: 112.16ms
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#🌐سرور 3 | hysteria2 | Kho-26 | 03:17 | Ping: 101.85ms
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#🌐سرور 4 | hysteria2 | Kho-26 | 03:17 | Ping: 102.31ms
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#🌐سرور 5 | hysteria2 | Kho-26 | 03:17 | Ping: 103.15ms
 hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#France%20%F0%9F%87%AB%F0%9F%87%B7
-hysteria2://dongtaiwang.com@62.210.10.108:22000/?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Kho-26 | 01:21 | Ping: 145.84ms
-hysteria2://dongtaiwang.com@62.210.10.108:22000?insecure=1&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Kho-26 | 01:21 | Ping: 148.13ms
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#🌐سرور 3 | hysteria2 | Kho-26 | 01:21 | Ping: 159.85ms
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?sni=se.esimpson.org&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=EsimObfs_9mK2x7#🌐سرور 4 | hysteria2 | Kho-26 | 01:21 | Ping: 159.94ms
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#🌐سرور 5 | hysteria2 | Kho-26 | 01:21 | Ping: 160.00ms
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#🌐سرور 6 | hysteria2 | Kho-26 | 01:21 | Ping: 160.01ms
+hysteria2://dongtaiwang.com@62.210.10.108:22000/?insecure=1&sni=www.microsoft.com#🌐سرور 1 | hysteria2 | Kho-26 | 03:17 | Ping: 92.71ms
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 7 | hysteria2 | Kho-26 | 03:17 | Ping: 225.92ms
