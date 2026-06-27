@@ -3,16 +3,16 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 4 | hysteria2 | Tir-06 | 01:49 | Ping: 159.67ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🌐سرور 1 | hysteria2 | Tir-06 | 07:57 | Ping: 146.09ms
+hysteria2://dongtaiwang.com@62.210.124.146:22000/?insecure=1&sni=www.microsoft.com#France%20%F0%9F%87%AB%F0%9F%87%B7
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 8 | hysteria2 | Tir-06 | 07:57 | Ping: 167.91ms
+hysteria2://f7cb07a0-e6f9-4d22-a60e-c61854450c89@vn2.yuntong.click:443?obfs=salamander&obfs-password=eNM%2FNfxTsBqQIKcN0ezARS1z0f5mIxRd9GSwhVsyJlo%3D&sni=vn2.yuntong.click#🌐سرور 11 | hysteria2 | Tir-06 | 07:57 | Ping: 202.04ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=1&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 2 | hysteria2 | Tir-06 | 07:57 | Ping: 151.10ms
+hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?security=tls&obfs=salamander&obfs-password=2a7e8084206388f4&insecure=0&sni=gettestin.xxee.ru#🌐سرور 4 | hysteria2 | Tir-06 | 07:57 | Ping: 154.58ms
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#🌐سرور 5 | hysteria2 | Tir-06 | 07:57 | Ping: 158.11ms
+hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?insecure=0&sni=gettestin.xxee.ru&obfs=salamander&obfs-password=2a7e8084206388f4#🌐سرور 10 | hysteria2 | Tir-06 | 07:57 | Ping: 170.25ms
+hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#🌐سرور 6 | hysteria2 | Tir-06 | 07:57 | Ping: 158.14ms
+hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443/?obfs=salamander&obfs-password=2a7e8084206388f4&sni=gettestin.xxee.ru#🌐سرور 9 | hysteria2 | Tir-06 | 07:57 | Ping: 168.52ms
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#⚙️
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 10 | hysteria2 | Tir-06 | 01:49 | Ping: 223.08ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@3.66.236.81:443/?insecure=1#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?security=tls&obfs=salamander&obfs-password=2a7e8084206388f4&insecure=0&sni=gettestin.xxee.ru#🌐سرور 2 | hysteria2 | Tir-06 | 01:49 | Ping: 144.65ms
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#🌐سرور 5 | hysteria2 | Tir-06 | 01:49 | Ping: 160.27ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🌐سرور 8 | hysteria2 | Tir-06 | 01:49 | Ping: 200.64ms
-hysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?insecure=0&sni=se.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#🌐سرور 6 | hysteria2 | Tir-06 | 01:49 | Ping: 183.34ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🌐سرور 9 | hysteria2 | Tir-06 | 01:49 | Ping: 202.33ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=1&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 7 | hysteria2 | Tir-06 | 01:49 | Ping: 193.37ms
-hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?sni=gettestin.xxee.ru&obfs=salamander&obfs-password=2a7e8084206388f4#🌐سرور 3 | hysteria2 | Tir-06 | 01:49 | Ping: 145.32ms
-hysteria2://8bc63720-5ec8-45b5-b6a6-9a21ffb490e8@31.76.28.28:443/?sni=argg5.auragg.org#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443/?obfs=salamander&obfs-password=2a7e8084206388f4&sni=gettestin.xxee.ru#🌐سرور 1 | hysteria2 | Tir-06 | 01:49 | Ping: 143.64ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 7 | hysteria2 | Tir-06 | 07:57 | Ping: 165.30ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🌐سرور 3 | hysteria2 | Tir-06 | 07:57 | Ping: 154.51ms
