@@ -3,17 +3,18 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 9 | hysteria2 | Tir-09 | 11:26 | Ping: 194.28ms
-hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?security=tls&obfs=salamander&obfs-password=2a7e8084206388f4&insecure=0&sni=gettestin.xxee.ru#🌐سرور 1 | hysteria2 | Tir-09 | 11:26 | Ping: 142.64ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 5 | hysteria2 | Tir-09 | 11:26 | Ping: 178.26ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 13 | hysteria2 | Tir-09 | 11:26 | Ping: 223.17ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🌐سرور 11 | hysteria2 | Tir-09 | 14:44 | Ping: 210.47ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=1&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 5 | hysteria2 | Tir-09 | 14:44 | Ping: 188.59ms
+hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte8.nimarko.org:8450?insecure=0&sni=testing6.nimarko.org#🌐سرور 13 | hysteria2 | Tir-09 | 14:44 | Ping: 376.38ms
+hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?security=tls&obfs=salamander&obfs-password=2a7e8084206388f4&insecure=0&sni=gettestin.xxee.ru#🌐سرور 1 | hysteria2 | Tir-09 | 14:44 | Ping: 139.99ms
+hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK#🌐سرور 4 | unknown | Tir-09 | 14:44 | Ping: 179.32ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 6 | hysteria2 | Tir-09 | 14:44 | Ping: 202.84ms
+hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?insecure=0&sni=gettestin.xxee.ru&obfs=salamander&obfs-password=2a7e8084206388f4#🌐سرور 2 | hysteria2 | Tir-09 | 14:44 | Ping: 142.37ms
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 3 | hysteria2 | Tir-09 | 14:44 | Ping: 154.34ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 12 | hysteria2 | Tir-09 | 14:44 | Ping: 229.77ms
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#⚙️
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=1&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 10 | hysteria2 | Tir-09 | 11:26 | Ping: 198.89ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?sni=hy2.aspidnet.xyz&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 8 | hysteria2 | Tir-09 | 11:26 | Ping: 193.15ms
-hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK#🌐سرور 3 | unknown | Tir-09 | 11:26 | Ping: 146.77ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 6 | hysteria2 | Tir-09 | 11:26 | Ping: 189.00ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🌐سرور 7 | hysteria2 | Tir-09 | 11:26 | Ping: 189.30ms
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 4 | hysteria2 | Tir-09 | 11:26 | Ping: 172.03ms
-hysteria2://gdubbi2zb6gdp0c8@103.251.167.168:443?insecure=0&sni=gettestin.xxee.ru&obfs=salamander&obfs-password=2a7e8084206388f4#🌐سرور 2 | hysteria2 | Tir-09 | 11:26 | Ping: 145.15ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 12 | hysteria2 | Tir-09 | 11:26 | Ping: 211.06ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 11 | hysteria2 | Tir-09 | 11:26 | Ping: 209.87ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 8 | hysteria2 | Tir-09 | 14:44 | Ping: 205.94ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 9 | hysteria2 | Tir-09 | 14:44 | Ping: 207.33ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 7 | hysteria2 | Tir-09 | 14:44 | Ping: 204.31ms
+hysteria2://c059a786-3a03-4300-9ace-4f9cda0f360c@wlte3.nimarko.org:8444?allowInsecure=0&insecure=0&security=tls&sni=testing8.nimarko.org#🌐سرور 14 | hysteria2 | Tir-09 | 14:44 | Ping: 960.36ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 10 | hysteria2 | Tir-09 | 14:44 | Ping: 210.35ms
