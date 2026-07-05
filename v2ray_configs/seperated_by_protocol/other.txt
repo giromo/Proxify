@@ -4,13 +4,13 @@
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
 # 🤖 Auto-Updated VPN Configs
-#🌐 به روزرسانی شده در Tir-14 | 23:46 | MTSRVRS
-# 📢 Channel: @dailyv2rayCF
-# 📊 Total Configs: 741
-# 👑 Maintained by: ALIILAPRO
-==================================================
-# ============ OTHER CONFIGS ============
-# ========================================
-# 📅 Last Update: 2026-07-06 - 00:25 (IR-🇮🇷)
-socks://Og@173.212.252.150:1080#%E2%98%80%EF%B8%8F12%40oneclickvpnkeys
 # 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+# ============ OTHER CONFIGS ============
+#🌐 به روزرسانی شده در Tir-15 | 00:59 | MTSRVRS
+==================================================
+socks://Og@173.212.252.150:1080#%E2%98%80%EF%B8%8F12%40oneclickvpnkeys
+# 📅 Last Update: 2026-07-06 - 01:08 (IR-🇮🇷)
+# 📊 Total Configs: 736
+# 📢 Channel: @dailyv2rayCF
+# 👑 Maintained by: ALIILAPRO
+# ========================================
