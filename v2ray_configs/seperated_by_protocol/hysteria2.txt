@@ -3,15 +3,17 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?insecure=1&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#🌐سرور 3 | hysteria2 | Tir-20 | 02:44 | Ping: 166.75ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?insecure=1&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#🌐سرور 1 | hysteria2 | Tir-20 | 03:43 | Ping: 97.07ms
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F47@v2ray_configs_pools
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F48@v2ray_configs_pools
+hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#EPODONIOS#🌐سرور 4 | unknown | Tir-20 | 03:43 | Ping: 186.48ms
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 6 | hysteria2 | Tir-20 | 03:43 | Ping: 224.75ms
 hysteria2://91uokb9ud7raz0fk@qg.easyiran.org:56845?security=tls&obfs=salamander&obfs-password=ngljeqgna3hmfr2s&insecure=0&sni=qg.easyiran.org#%40address_shir_o_khorshid```
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F48@v2ray_configs_pools
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F49@v2ray_configs_pools
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.236.225:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC47@NetFlowTools
-hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK#🌐سرور 2 | unknown | Tir-20 | 02:44 | Ping: 152.99ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC48@NetFlowTools
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC46@NetFlowTools
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 4 | hysteria2 | Tir-20 | 02:44 | Ping: 220.24ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.236.225:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
-hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#EPODONIOS#🌐سرور 1 | unknown | Tir-20 | 02:44 | Ping: 152.97ms
+hy2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443/?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🇭🇰 HK#🌐سرور 5 | unknown | Tir-20 | 03:43 | Ping: 224.27ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@18.141.236.225:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC47@NetFlowTools
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC48@NetFlowTools
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?insecure=1&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#🌐سرور 3 | hysteria2 | Tir-20 | 03:43 | Ping: 105.13ms
+hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@18.190.219.163:443/?insecure=1&sni=https%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=1&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 2 | hysteria2 | Tir-20 | 03:43 | Ping: 99.07ms
