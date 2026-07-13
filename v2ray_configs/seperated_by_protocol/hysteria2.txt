@@ -3,17 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 7 | hysteria2 | Tir-22 | 03:42 | Ping: 192.43ms
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=#🌐سرور 4 | hysteria2 | Tir-22 | 03:42 | Ping: 132.57ms
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#🌐سرور 2 | hysteria2 | Tir-22 | 03:42 | Ping: 129.99ms
 hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52013?sni=assets.gateway-stream.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=cukfjxud1ebjuuzs#%F0%9F%A7%B8%40v2ray_configs_pools`
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=#🌐سرور 6 | hysteria2 | Tir-22 | 03:42 | Ping: 174.36ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC46@NetFlowTools
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=#🌐سرور 3 | hysteria2 | Tir-22 | 03:42 | Ping: 132.39ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC48@NetFlowTools
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F47@v2ray_configs_pools
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#🌐سرور 5 | hysteria2 | Tir-22 | 03:42 | Ping: 132.69ms
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#🌐سرور 1 | hysteria2 | Tir-22 | 03:42 | Ping: 124.57ms
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F49@v2ray_configs_pools
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=#🌐سرور 1 | hysteria2 | Tir-22 | 07:33 | Ping: 110.05ms
 hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@52.221.230.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F48@v2ray_configs_pools
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.255.220.11:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC46@NetFlowTools
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#🌐سرور 2 | hysteria2 | Tir-22 | 07:33 | Ping: 110.09ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@54.251.212.188:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F49@v2ray_configs_pools
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.229.106.122:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%95%B9%EF%B8%8F47@v2ray_configs_pools
+hysteria2://a305ac08-d136-11ee-b6db-f23c91cfbbc9@ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com:443?sni=ffc60249-t53wg0-t92wi1-1qkeg.hk2.hyhuawei.com#🌐سرور 3 | hysteria2 | Tir-22 | 07:33 | Ping: 236.93ms
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#Singapore%20%F0%9F%87%B8%F0%9F%87%AC
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@13.250.29.24:443/?insecure=1&sni=vpn-sg-001.fastervpn.world#%F0%9F%AA%BC48@NetFlowTools
