@@ -3,33 +3,33 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-# 📅 Last Update: 2026-07-17 - 22:40 (IR-🇮🇷)
-# 📊 Total Configs: 753
-socks://Og@2.186.229.128:1080#%40ShadowProxy66%20%283%29
-socks://Og@79.175.177.57:1080#%40ShadowProxy66%20%2841%29
-socks://Og@45.94.213.189:1081#%40ShadowProxy66%20%2855%29
-# 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 socks://Og@89.44.112.13:1086#%40ShadowProxy66%20%2828%29
-# ============ OTHER CONFIGS ============
-socks://Og@193.151.145.81:1081#%40ShadowProxy66%20%2846%29
-socks://Og@185.179.171.19:2080#%40ShadowProxy66%20%2852%29
-socks://Og@5.160.91.186:1080#%40ShadowProxy66%20%2821%29
-socks://Og@87.107.54.190:10808#%40ShadowProxy66%20%2847%29
-==================================================
+socks://Og@2.186.229.128:1080#%40ShadowProxy66%20%283%29
 socks://Og@2.186.229.129:1080#%40ShadowProxy66%20%284%29
+socks://Og@193.242.208.197:10808#%40ShadowProxy66%20%2850%29
+socks://Og@130.185.77.42:1080#%40ShadowProxy66%20%2819%29
+# 📢 Channel: @dailyv2rayCF
+# 🤖 Auto-Updated VPN Configs
+socks://Og@89.44.112.13:1093#%40ShadowProxy66%20%289%29
+socks://Og@193.151.145.81:1081#%40ShadowProxy66%20%2846%29
+==================================================
+# 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+socks://Og@95.38.164.222:1111#%40ShadowProxy66%20%2811%29
+# ============ OTHER CONFIGS ============
+socks://Og@87.107.68.231:1081#%40ShadowProxy66%20%2824%29
+socks://Og@79.175.177.57:1080#%40ShadowProxy66%20%2841%29
+# 📅 Last Update: 2026-07-18 - 00:12 (IR-🇮🇷)
+socks://Og@185.179.171.19:2080#%40ShadowProxy66%20%2852%29
+#🌐 به روزرسانی شده در Tir-26 | 23:06 | MTSRVRS
+socks://Og@5.160.103.162:1080#%40ShadowProxy66%20%2830%29
 socks://Og@94.182.135.133:3030#%40ShadowProxy66%20%2831%29
 socks://Og@62.60.210.173:1080#%40ShadowProxy66%20%2858%29
-socks://Og@95.38.164.222:1111#%40ShadowProxy66%20%2811%29
-socks://Og@87.107.68.231:1081#%40ShadowProxy66%20%2824%29
-socks://Og@31.47.51.152:1111#%40ShadowProxy66%20%282%29
-# 📢 Channel: @dailyv2rayCF
-socks://Og@5.160.103.162:1080#%40ShadowProxy66%20%2830%29
-socks://Og@193.242.208.197:10808#%40ShadowProxy66%20%2850%29
-# 👑 Maintained by: ALIILAPRO
-socks://Og@193.151.150.121:1080#%40ShadowProxy66%20%2842%29
-socks://Og@89.44.112.13:1093#%40ShadowProxy66%20%289%29
 # ========================================
-# 🤖 Auto-Updated VPN Configs
-socks://Og@130.185.77.42:1080#%40ShadowProxy66%20%2819%29
-#🌐 به روزرسانی شده در Tir-26 | 21:47 | MTSRVRS
+# 👑 Maintained by: ALIILAPRO
+socks://Og@45.94.213.189:1081#%40ShadowProxy66%20%2855%29
+socks://Og@31.47.51.152:1111#%40ShadowProxy66%20%282%29
+socks://Og@5.160.91.186:1080#%40ShadowProxy66%20%2821%29
+socks://Og@193.151.150.121:1080#%40ShadowProxy66%20%2842%29
+# 📊 Total Configs: 751
+socks://Og@87.107.54.190:10808#%40ShadowProxy66%20%2847%29
 socks://Og@2.144.25.231:10808#%40ShadowProxy66%20%2827%29
