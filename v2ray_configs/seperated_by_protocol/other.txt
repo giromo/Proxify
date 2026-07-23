@@ -3,19 +3,19 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-# 📊 Total Configs: 649
-# 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+#🌐 به روزرسانی شده در Mor-01 | 20:18 | MTSRVRS
 socks://Og@5.160.103.162:1080#%40ShadowProxy66%20%2830%29
-# ============ OTHER CONFIGS ============
-socks://Og@5.160.91.186:1080#%40ShadowProxy66%20%2821%29
-# ========================================
-# 📅 Last Update: 2026-07-23 - 18:03 (IR-🇮🇷)
-# 📢 Channel: @dailyv2rayCF
-socks://Og@62.60.210.173:1080#%40ShadowProxy66%20%2858%29
-socks://Og@31.47.51.152:1111#%40ShadowProxy66%20%282%29
-socks://Og@95.38.164.222:1111#%40ShadowProxy66%20%2811%29
-socks://Og@89.44.112.13:1086#%40ShadowProxy66%20%2828%29
-# 👑 Maintained by: ALIILAPRO
-#🌐 به روزرسانی شده در Mor-01 | 18:39 | MTSRVRS
 # 🤖 Auto-Updated VPN Configs
+# ========================================
+# 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+socks://Og@5.160.91.186:1080#%40ShadowProxy66%20%2821%29
+# 📢 Channel: @dailyv2rayCF
+socks://Og@31.47.51.152:1111#%40ShadowProxy66%20%282%29
+# 📊 Total Configs: 658
+# ============ OTHER CONFIGS ============
+socks://Og@62.60.210.173:1080#%40ShadowProxy66%20%2858%29
+# 👑 Maintained by: ALIILAPRO
 ==================================================
+socks://Og@89.44.112.13:1086#%40ShadowProxy66%20%2828%29
+socks://Og@95.38.164.222:1111#%40ShadowProxy66%20%2811%29
+# 📅 Last Update: 2026-07-23 - 19:35 (IR-🇮🇷)
