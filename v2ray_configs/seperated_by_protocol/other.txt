@@ -4,18 +4,18 @@
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
 socks://Og@5.160.103.162:1080#%40ShadowProxy66%20%2830%29
-socks://Og@5.160.91.186:1080#%40ShadowProxy66%20%2821%29
-socks://Og@31.47.51.152:1111#%40ShadowProxy66%20%282%29
-# 👑 Maintained by: ALIILAPRO
-# 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+# 🤖 Auto-Updated VPN Configs
 ==================================================
-# 📅 Last Update: 2026-07-23 - 08:15 (IR-🇮🇷)
-# 📢 Channel: @dailyv2rayCF
+# 👑 Maintained by: ALIILAPRO
+# 📊 Total Configs: 671
+# ========================================
+socks://Og@95.38.164.222:1111#%40ShadowProxy66%20%2811%29
+socks://Og@5.160.91.186:1080#%40ShadowProxy66%20%2821%29
 socks://Og@89.44.112.13:1086#%40ShadowProxy66%20%2828%29
+socks://Og@31.47.51.152:1111#%40ShadowProxy66%20%282%29
+#🌐 به روزرسانی شده در Mor-01 | 09:41 | MTSRVRS
+# 📢 Channel: @dailyv2rayCF
+# 📅 Last Update: 2026-07-23 - 10:48 (IR-🇮🇷)
+# 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 socks://Og@62.60.210.173:1080#%40ShadowProxy66%20%2858%29
 # ============ OTHER CONFIGS ============
-# ========================================
-# 📊 Total Configs: 672
-#🌐 به روزرسانی شده در Mor-01 | 06:42 | MTSRVRS
-# 🤖 Auto-Updated VPN Configs
-socks://Og@95.38.164.222:1111#%40ShadowProxy66%20%2811%29
