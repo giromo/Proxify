@@ -3,26 +3,26 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#🌐سرور 8 | hysteria2 | Mor-10 | 23:45 | Ping: 168.95ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🌐سرور 17 | hysteria2 | Mor-10 | 23:45 | Ping: 199.10ms
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#🌐سرور 5 | hysteria2 | Mor-10 | 23:45 | Ping: 168.54ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52064?security=tls&obfs=salamander&alpn=h3&obfs-password=bs5yf8xwmyqafwy4&insecure=0&sni=assets.gateway-stream.com#🌐سرور 7 | hysteria2 | Mor-10 | 23:45 | Ping: 168.77ms
-hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?insecure=0&sni=prodfr.h2corp.org#🌐سرور 19 | hysteria2 | Mor-10 | 23:45 | Ping: 354.69ms
-hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#🌐سرور 14 | hysteria2 | Mor-10 | 23:45 | Ping: 171.90ms
-hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?sni=prodfr.h2corp.org#🌐سرور 1 | hysteria2 | Mor-10 | 23:45 | Ping: 150.44ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#🌐سرور 13 | hysteria2 | Mor-10 | 23:45 | Ping: 171.65ms
+hysteria2://71cada65-d23e-418c-88e4-a06188d14689@swe-one.quiet-rogue.site:443?sni=swe-one.quiet-rogue.site#🌐سرور 20 | hysteria2 | Mor-11 | 00:41 | Ping: 1231.61ms
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=t72hzzenktxmrvgu&insecure=0&sni=assets.gateway-stream.com#🌐سرور 14 | hysteria2 | Mor-11 | 00:41 | Ping: 252.33ms
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#🌐سرور 15 | hysteria2 | Mor-11 | 00:41 | Ping: 252.77ms
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#🌐سرور 19 | hysteria2 | Mor-11 | 00:41 | Ping: 645.88ms
+hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?insecure=0&sni=prodfr.h2corp.org&obfs=&obfs-password=#🌐سرور 2 | hysteria2 | Mor-11 | 00:41 | Ping: 223.31ms
+hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443?insecure=0&sni=prodfr.h2corp.org#🌐سرور 17 | hysteria2 | Mor-11 | 00:41 | Ping: 564.06ms
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#🌐سرور 10 | hysteria2 | Mor-11 | 00:41 | Ping: 250.96ms
+hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?security=tls&obfs=salamander&obfs-password=mtg2vchyir6la3et&insecure=0&sni=assets.gateway-stream.com#🌐سرور 6 | hysteria2 | Mor-11 | 00:41 | Ping: 240.45ms
 hysteria2://1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq@prodfr.h2corp.org:443/?sni=prodfr.h2corp.org#Germany%20%F0%9F%87%A9%F0%9F%87%AA
-hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.133:8443/?sni=grape-zet-turbo-nl.yyuyy.com#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&obfs=salamander&alpn=h3&obfs-password=t72hzzenktxmrvgu&insecure=0&sni=assets.gateway-stream.com#🌐سرور 9 | hysteria2 | Mor-10 | 23:45 | Ping: 168.98ms
-hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=iknjsvsjagi449mm#🌐سرور 10 | hysteria2 | Mor-10 | 23:45 | Ping: 169.47ms
-hysteria2://elknam6l7izf3z71@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#🌐سرور 12 | hysteria2 | Mor-10 | 23:45 | Ping: 169.88ms
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#🌐سرور 6 | hysteria2 | Mor-10 | 23:45 | Ping: 168.64ms
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?sni=assets.gateway-stream.com&insecure=1&allowInsecure=1&obfs=salamander&obfs-password=w0tx1ju9iix6913p#🌐سرور 3 | hysteria2 | Mor-10 | 23:45 | Ping: 168.09ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52064?security=tls&obfs=salamander&alpn=h3&obfs-password=bs5yf8xwmyqafwy4&insecure=0&sni=assets.gateway-stream.com#🌐سرور 16 | hysteria2 | Mor-10 | 23:45 | Ping: 183.10ms
-hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#🌐سرور 4 | hysteria2 | Mor-10 | 23:45 | Ping: 168.13ms
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?insecure=1&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&sni=hy2-new.aspidnet.xyz#🌐سرور 18 | hysteria2 | Mor-10 | 23:45 | Ping: 230.43ms
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?insecure=0&obfs-password=93lc6r07zfx4crct&sni=assets.gateway-stream.com&security=tls&obfs=salamander#🌐سرور 13 | hysteria2 | Mor-11 | 00:41 | Ping: 251.96ms
 hysteria2://suAmQS9LlInNq4Wumh-FUF4GGlpgmG_g@159.223.157.129:8443/?insecure=1&sni=www.microsoft.com#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&obfs=salamander&alpn=h3&obfs-password=t72hzzenktxmrvgu&insecure=0&sni=assets.gateway-stream.com#🌐سرور 15 | hysteria2 | Mor-10 | 23:45 | Ping: 182.32ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52024?security=tls&obfs=salamander&obfs-password=t72hzzenktxmrvgu&insecure=0&sni=assets.gateway-stream.com#🌐سرور 11 | hysteria2 | Mor-10 | 23:45 | Ping: 169.64ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=1&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 20 | hysteria2 | Mor-10 | 23:45 | Ping: 514.30ms
-hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#🌐سرور 2 | hysteria2 | Mor-10 | 23:45 | Ping: 167.92ms
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?security=tls&obfs=salamander&obfs-password=w0tx1ju9iix6913p&insecure=1&sni=assets.gateway-stream.com#🌐سرور 11 | hysteria2 | Mor-11 | 00:41 | Ping: 251.45ms
+hy2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443/?insecure=1&sni=www.microsoft.com#🇳🇱#🌐سرور 1 | unknown | Mor-11 | 00:41 | Ping: 215.06ms
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?security=tls&obfs=salamander&obfs-password=l960g2kn19nphlra&insecure=0&sni=assets.gateway-stream.com#🌐سرور 12 | hysteria2 | Mor-11 | 00:41 | Ping: 251.57ms
+hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.133:8443/?sni=grape-zet-turbo-nl.yyuyy.com#Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52008?security=tls&obfs=salamander&obfs-password=93lc6r07zfx4crct&insecure=0&sni=assets.gateway-stream.com#🌐سرور 8 | hysteria2 | Mor-11 | 00:41 | Ping: 245.51ms
+hysteria2://0puq3lmwv7qtp76t@assets.gateway-stream.com:52034?insecure=1&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=w0tx1ju9iix6913p#🌐سرور 5 | hysteria2 | Mor-11 | 00:41 | Ping: 239.90ms
+hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?security=tls&obfs=salamander&obfs-password=iknjsvsjagi449mm&insecure=0&sni=assets.gateway-stream.com#🌐سرور 16 | hysteria2 | Mor-11 | 00:41 | Ping: 413.05ms
+hysteria2://76kyzc055ahiyfzy@assets.gateway-stream.com:52064?security=tls&obfs=salamander&alpn=h3&obfs-password=bs5yf8xwmyqafwy4&insecure=0&sni=assets.gateway-stream.com#🌐سرور 9 | hysteria2 | Mor-11 | 00:41 | Ping: 248.42ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🌐سرور 4 | hysteria2 | Mor-11 | 00:41 | Ping: 232.47ms
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#🌐سرور 7 | hysteria2 | Mor-11 | 00:41 | Ping: 243.02ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=1&sni=hy2.aspidnet.xyz#🌐سرور 3 | hysteria2 | Mor-11 | 00:41 | Ping: 231.64ms
+hysteria2://uj7XGZGUqRlmdpk6rysyZMN333RWsxTFj0hBIMaFV-NUCd5r@ro.h2corp.org:443?sni=ro.h2corp.org#🌐سرور 18 | hysteria2 | Mor-11 | 00:41 | Ping: 622.85ms
