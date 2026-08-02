@@ -3,13 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-# 📊 Total Configs: 1144
-==================================================
-#🌐 به روزرسانی شده در Mor-11 | 14:21 | MTSRVRS
-# 🤖 Auto-Updated VPN Configs
-# ============ OTHER CONFIGS ============
-# 📅 Last Update: 2026-08-02 - 14:19 (IR-🇮🇷)
-# ========================================
-# 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 📢 Channel: @dailyv2rayCF
+#🌐 به روزرسانی شده در Mor-11 | 15:33 | MTSRVRS
+# 🤖 Auto-Updated VPN Configs
+# 📅 Last Update: 2026-08-02 - 15:51 (IR-🇮🇷)
+# ============ OTHER CONFIGS ============
+==================================================
+# 📥 Subscription Link: https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
 # 👑 Maintained by: ALIILAPRO
+# 📊 Total Configs: 1152
+# ========================================
