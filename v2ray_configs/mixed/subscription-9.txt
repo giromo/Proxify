@@ -3,9 +3,8 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-vless://cf39fab0-bb85-42cb-9945-2ad69d78e575@104.26.14.85:443?path=%2FGOrbEh&security=tls&encryption=none&insecure=0&host=rubifen.adaspoloandco.com&type=ws&allowInsecure=0&sni=rubifen.adaspoloandco.com#🌐سرور 1059 | Aug-15 | MTSRVRS
-trojan://AE62539071@integral-quetzal.rooster465.autos:443?security=tls&sni=integral-quetzal.rooster465.autos#🏳[openproxylist.com] trojan-
-vmess://eyJ2IjoiMiIsInBzIjoiR2xvYmFsIPCfjJAgfCBAUmF5ZGlrYWx4IHwgQ0IxMTQ1IiwiYWRkIjoiczFjLnYyLnYwMDFzc3MueHl6IiwicG9ydCI6IjIwODIiLCJpZCI6IjExMmFjMzZmLTNmNTMtNGUyNi04MzcxLWQyNWMwMjhlMWI5YSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiLyIsInRscyI6IiIsInNuaSI6IiIsImFscG4iOiIifQ==
-trojan://1d2a8749-001e-4809-b767-cb04a54bdf7f@625tw.ok365.cyou:443?allowInsecure=1#🌐سرور 1874 | Aug-15 | MTSRVRS
-vmess://eyJhZGQiOiIxODguMjQ1LjgyLjE2NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxYmRjMWI4Zi0wYTIwLTRkYzgtOGY3My1lMDA4ZjY0ZGE2NWUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIwODYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInBzIjoiREUg8J+HqfCfh6ogfCBAUmF5ZGlrYWx4IHwgRUY1NTlDIn0=
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@v1.dabache.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#🌐سرور 1578 | Aug-15 | MTSRVRS
+vless://70df38ff-5a22-4ffc-a3f9-1725515e0ea5@205.237.109.215:448?flow=&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.samsung.com&pbk=IuB1jsALd-wN_8jRTGxVLBbVG5eSxNbOXjvFyZlm3UU&sid=113241ad01e99a2d#🌐سرور 1469 | Aug-15 | MTSRVRS
+vless://926bc4cd-709e-4e90-8aa7-78db75fbe86b@162.159.0.8:443?encryption=none&type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=De1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&sni=1111--MiTiVPN---MiTiVPN-o.KinGNetWork.iR&alpn=h2%2Chttp%2F1.1&fp=chrome#🆔configfa%20🔒%20VL-WS-N/A%20🇺🇸%20US%203ms
+vless://416f18ec-11f3-4648-9693-8c6480d0662d@104.18.1.125:2082?type=ws&host=PbDpGsCo2.HaMeCi-dSsTeMaNe.oRg&path=%2F#🌐سرور 704 | Aug-15 | MTSRVRS
+vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?encryption=none&path=%2F&security=none&type=ws#🌐سرور 533 | Aug-15 | MTSRVRS
+vmess://eyJhZGQiOiI0NS4zOC4xOS4xMTQiLCJob3N0IjoicGxheS5nb29nbGUuY29tIiwiaWQiOiI1YTAzYjE2ZC00NjFhLTQzMmEtYTA0NC1mNTdkNDk2NmE2MGEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL0pvaW4tdXMtQG5ldHByb3RlY3RzIiwicG9ydCI6NTQwMTMsInBzIjoiVVMg8J+HuvCfh7ggfCBAUmF5ZGlrYWx4IHwgMTI4Mzc5Iiwic2N5IjoiYXV0byIsInRscyI6Im5vbmUiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
