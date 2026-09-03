@@ -3,15 +3,11 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🌐سرور 8 | hysteria2 | Sha-12 | 14:22 | Ping: 126.66ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 11 | hysteria2 | Sha-12 | 14:22 | Ping: 144.68ms
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?sni=fiproxy1.lockdwn.com&insecure=0&allowInsecure=0&obfs=salamander&obfs-password=uw9b2qq5rx#🌐سرور 7 | hysteria2 | Sha-12 | 14:22 | Ping: 117.05ms
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 6 | hysteria2 | Sha-12 | 14:22 | Ping: 112.58ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 1 | hysteria2 | Sha-12 | 14:22 | Ping: 83.35ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 3 | hysteria2 | Sha-12 | 14:22 | Ping: 91.62ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 9 | hysteria2 | Sha-12 | 14:22 | Ping: 137.59ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 4 | hysteria2 | Sha-12 | 14:22 | Ping: 98.00ms
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443/?insecure=1&sni=germany3.h2corp.local#🌐سرور 5 | hysteria2 | Sha-12 | 14:22 | Ping: 101.33ms
-hy2://1ba59989-225e-4f1c-ab62-9bd7366009cb@194.135.34.130:443/?insecure=1&sni=194.135.34.130#土耳其#🌐سرور 10 | unknown | Sha-12 | 14:22 | Ping: 138.87ms
-hysteria2://BPvdjudCGodsF67hRP3xgBYvcKp48coTsh6ANydLhQs%3D@fin14qr.wwwinternetvideo.click:443?insecure=1&sni=fin14qr.wwwinternetvideo.click#🌐سرور 12 | hysteria2 | Sha-12 | 14:22 | Ping: 190.63ms
-hysteria2://umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx@5.83.129.11:443/?insecure=1&sni=germany1.h2corp.local#🌐سرور 2 | hysteria2 | Sha-12 | 14:22 | Ping: 87.95ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 7 | hysteria2 | Sha-12 | 18:24 | Ping: 139.64ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 2 | hysteria2 | Sha-12 | 18:24 | Ping: 96.01ms
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 6 | hysteria2 | Sha-12 | 18:24 | Ping: 138.90ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 4 | hysteria2 | Sha-12 | 18:24 | Ping: 113.38ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 3 | hysteria2 | Sha-12 | 18:24 | Ping: 104.13ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 1 | hysteria2 | Sha-12 | 18:24 | Ping: 90.24ms
+hysteria2://GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_@hy2-latvia2.unlimited-access.ru:443/?sni=hy2-latvia2.unlimited-access.ru#🌐سرور 5 | hysteria2 | Sha-12 | 18:24 | Ping: 129.74ms
+hysteria2://YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc@admin.wwwinternetvideo.click:443?insecure=1&sni=admin.wwwinternetvideo.click#🌐سرور 8 | hysteria2 | Sha-12 | 18:24 | Ping: 168.25ms
