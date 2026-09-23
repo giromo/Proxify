@@ -3,145 +3,156 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#🌐سرور 1951 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🌐سرور 1891 | Sep-23 | MTSRVRS
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.20.208:443#🌐سرور 27 | ss | Meh-01 | 07:25 | Ping: 105.20ms
-ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@yyz-ca-01.blncvpn4u.cc:9443#🇨🇦[openproxylist.com] ss-CA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🌐سرور 1923 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.53:8090#🌐سرور 1938 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.213.23.63:990#🌐سرور 30 | ss | Meh-01 | 07:25 | Ping: 124.39ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#EPODONIOS
-ss://YWVzLTI1Ni1nY206NDkzOGU5NzU3MjRkMGVkMQ@194.87.196.13:10090#🇷🇺[openproxylist.com] ss-RU
-ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388#🇨🇱[openproxylist.com] ss-CL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🌐سرور 1905 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZm9rYUFuZGlieWwtd1hqb1ZleF96RFQ3OHIta3dtWA@jgzt1997.qivfelo.ir:58965#🌐سرور 1940 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#🇨🇦[openproxylist.com] ss-CA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🌐سرور 1906 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🌐سرور 31 | Sep-23 | MTSRVRS
-ss://chacha20-ietf-poly1305:c58d16e593d44f42@158.173.221.214:11001#🌐سرور 16 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-13160
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🌐سرور 8 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#🌐سرور 1910 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#🇳🇱[openproxylist.com] ss-NL
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🌐سرور 7 | Sep-23 | MTSRVRS
-ss://c2e317b0-0847-4579-9b78-7b678634ffc4@freesocks.work:2052?path=%2F%40BlueKnight_net--%40BlueKnight_net&amp;security=none&amp;encryption=none&amp;host=uwu.blueknightnet.qzz.io&amp;type=ws#🌐سرور 25 | ss | Meh-01 | 07:25 | Ping: 42.57ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaE5EMGRBK2t6NTY3TER4b29HZU50Y0NjaGtQdFBPNVhFdTFmODFPNU8wPQ@138.201.197.177:2223#🌐سرور 1959 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.10:8119#🌐سرور 1941 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#🌐سرور 37 | ss | Meh-01 | 07:25 | Ping: 161.57ms
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-216
-ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ@140.82.56.38:8388#🇳🇱[openproxylist.com] ss-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.126.122:8388#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#EPODONIOS
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🌐سرور 9 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcTV0RE5hOXFFRWpOOUVNNEFyeFF3@p1tun4.greewebservices.ir:1080#🌐سرور 1912 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388?type=tcp&headerType=none#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#EPODONIOS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.53:8118#🌐سرور 1127 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-638
-ss://YWVzLTI1Ni1nY206cFgwdWhVM1pqVWNMV1lzMFZlejU1Qk8zSm9RclJsTA@146.59.116.19:17000#🌐سرور 34 | ss | Meh-01 | 07:25 | Ping: 133.34ms
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d2oxOWVucHA2OHB4OHQ3@sth.free-outline.giize.com:1081#🇭🇰[openproxylist.com] ss-HK
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#EPODONIOS
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#🌐سرور 1911 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@5.75.192.44:1080#🌐سرور 1937 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🌐سرور 1888 | Sep-23 | MTSRVRS
+ss://Channel%3Atelegram%3ATurboConfigs@5.75.207.9:2901?security=none&encryption=none&host=google.com&headerType=http&type=tcp#🌐سرور 1872 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🌐سرور 23 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#🌐سرور 34 | ss | Meh-01 | 12:40 | Ping: 144.75ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
+ss://f5267873-5379-409e-b67a-145ea54deb70@undef.network:2052?path=%2F%40BlueKnight_net--%40BlueKnight_net&amp;security=none&amp;encryption=none&amp;host=uwu.blueknightnet.qzz.io&amp;type=ws#🌐سرور 25 | ss | Meh-01 | 12:40 | Ping: 62.03ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🌐سرور 1857 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ@108.181.58.239:8388#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU%3D@51.77.225.200:8388#France%20%F0%9F%87%AB%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZm9rYUFuZGlieWwtd1hqb1ZleF96RFQ3OHIta3dtWA@jgzt1997.qivfelo.ir:58965#🌐سرور 1890 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🌐سرور 1889 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#🌐سرور 4 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.213.23.63:990#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🌐سرور 1870 | Sep-23 | MTSRVRS
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Z0JQbDhNdVFVbi9QQkZWeStkS2lNY1BMNmMwRXJnaDhabW1HcU1JSDJOQT0@92.5.231.133:45819#🌐سرور 1867 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#🌐سرور 38 | ss | Meh-01 | 12:40 | Ping: 219.05ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE%3D@51.195.126.38:8388#Germany%20%F0%9F%87%A9%F0%9F%87%AA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZm9rYUFuZGlieWwtd1hqb1ZleF96RFQ3OHIta3dtWA@jgzt1997.qivfelo.ir:58965#🌐سرور 1907 | Sep-23 | MTSRVRS
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🌐سرور 18 | Sep-23 | MTSRVRS
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6ZitRL3o1RUhsWHRiUlBaQnFUOHlneStSVWt3bmM2a01jZDhVWThpeXhVOD0@130.61.232.101:59924#🇩🇪[openproxylist.com] ss-DE
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6Q0p6Ny9NWkY2c1c2eWx2T0NmQUUrRW1BcVlaS04xR25NbFM0dEdVUzNKND0@130.61.180.252:59924#🇩🇪[openproxylist.com] ss-DE
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MlBJdVRBeFpqekp4bmk0a3h5L0dRMzZWV1RiUnJZemwxZmptMHVmVFI5ND0=@167.150.100.93:29824#🇸🇬[openproxylist.com] ss-SG
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.46:8080#🇳🇱[openproxylist.com] ss-NL
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZm9rYUFuZGlieWwtd1hqb1ZleF96RFQ3OHIta3dtWA@jgzt1997.qivfelo.ir:58965#🌐سرور 1900 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🇲🇽[openproxylist.com] ss-MX
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1899
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭[openproxylist.com] ss-CH
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.180.214.110:5600#🇩🇰[openproxylist.com] ss-DK
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.53:8080#🌐سرور 1942 | Sep-23 | MTSRVRS
-ss://Channel%3Atelegram%3ATurboConfigs@5.75.207.9:2901?security=none&encryption=none&host=google.com&headerType=http&type=tcp#🌐سرور 1889 | Sep-23 | MTSRVRS
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#🌐سرور 1126 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#M.HH V2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#🌐سرور 2 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.53:8118#🌐سرور 1935 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#🌐سرور 3 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#🇨🇭[openproxylist.com] ss-CH
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcTV0RE5hOXFFRWpOOUVNNEFyeFF3@p1tun1.greewebservices.ir:2050#🌐سرور 40 | ss | Meh-01 | 07:25 | Ping: 318.91ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#🌐سرور 13 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🌐سرور 1895 | Sep-23 | MTSRVRS
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RUc3Z2Q2ZjFGU2ttK3gvT29XUkh6c1JUMUpsL3RTeDBFV3hrcHJFR1pTbz0@129.151.73.227:61312#🇬🇧[openproxylist.com] ss-GB
+ss://2fad05d3-9fab-45a0-addc-3fc229673c5e@172.67.158.89:8443?mode=auto&amp;path=%2Fdawdawdqwrrtt&amp;security=tls&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&amp;insecure=0&amp;host=dl1.rahetejarat.com&amp;fp=chrome&amp;type=xhttp&amp;allowInsecure=0&amp;sni=dl1.rahetejarat.com#🌐سرور 21 | ss | Meh-01 | 12:40 | Ping: 17.43ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEZm9rYUFuZGlieWwtd1hqb1ZleF96RFQ3OHIta3dtWA@jgzt1997.qivfelo.ir:58965#🌐سرور 39 | ss | Meh-01 | 12:40 | Ping: 284.66ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443#🌐سرور 1912 | Sep-23 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-627
-ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#🌐سرور 1957 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🌐سرور 5 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-633
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#🇳🇱[openproxylist.com] ss-NL
+ss://YWVzLTI1Ni1nY206cXBTZXZLYVVYWVFLdlNqcA@139.180.220.175:8388#🇸🇬[openproxylist.com] ss-SG
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UkVld3FpM2M3bDNoeURVRHpUcHVoT1ByV082WDlWbzZiWFloaEUzdEd3OD0@158.101.211.78:45819#🇳🇱[openproxylist.com] ss-NL
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🌐سرور 27 | ss | Meh-01 | 12:40 | Ping: 121.59ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🌐سرور 1910 | Sep-23 | MTSRVRS
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SlRvdStKU21aT0F5ck1MZHZOQmNYRm0wWTlsdVovOHUxN2llNDhqUWZWYz0@141.95.29.163:2083#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#🌐سرور 1906 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRTWVtV2lkNlhHdG5SZXVv@20.238.35.153:443#🌐سرور 1860 | Sep-23 | MTSRVRS
+ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:19290#🌐سرور 1909 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@57.131.48.45:8388#🌐سرور 31 | ss | Meh-01 | 12:40 | Ping: 131.07ms
+ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#🇸🇪[openproxylist.com] ss-SE
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🌐سرور 1897 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206TlRNeU9HTmpNVEk1T1RGaU9HUXdNVGcyTkRJMVlUYzBZamhtTURVeQ@188.121.123.28:9147#🌐سرور 1869 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206OWNmYWE3OGQ1MWFjMzY2Zg@89.125.244.241:10090#🇯🇵[openproxylist.com] ss-JP
+ss://YWVzLTI1Ni1nY206Qld5UFBUdXNGS2hHZ3pLaA==@64.177.90.30:8388#🇲🇽[openproxylist.com] ss-MX
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.157.40.120:5498#🌐سرور 1855 | Sep-23 | MTSRVRS
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6SUpQS3liZENXYzFxdm9HcXkwZTZ0ZmxHa0FBS0NYZTlGYVdjQlRqZ2ZEcz0@130.61.235.137:59924#🏳[openproxylist.com] ss-
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#🌐سرور 6 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVDM2dHNpUGZuZDBucDVraEpxanlR@p2tun1.greewebservices.ir:1010#🌐سرور 1896 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#🌐سرور 1877 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🌐سرور 1895 | Sep-23 | MTSRVRS
+ss://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&amp;encryption=none&amp;pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=www.cloudflare.com&amp;sid=50ba05992b05c1c3#🌐سرور 35 | ss | Meh-01 | 12:40 | Ping: 146.36ms
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.10:8119#🌐سرور 1861 | Sep-23 | MTSRVRS
+ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:55597#🌐سرور 1878 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#🌐سرور 1891 | Sep-23 | MTSRVRS
+ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&amp;security=none&amp;encryption=none&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws#🌐سرور 22 | ss | Meh-01 | 12:40 | Ping: 18.02ms
+ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?security=none&amp;encryption=none&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;sni=hhlfy.twiladaphne.ndjp.net#🌐سرور 23 | ss | Meh-01 | 12:40 | Ping: 18.33ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🌐سرور 1863 | Sep-23 | MTSRVRS
+ss://chacha20-ietf-poly1305:LB2J8MvTt2SBgD6o@20.238.35.153:443#🌐سرور 1886 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OWIwNzVlMzU1OGU5ZjU2YjkzMWYxODQwN2IwNjEwZQ@turk2.hosting-96.ir:4592#🌐سرور 1923 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#🌐سرور 1921 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#🌐سرور 1902 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#🌐سرور 33 | ss | Meh-01 | 12:40 | Ping: 141.17ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🌐سرور 1859 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🌐سرور 1871 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#EPODONIOS
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:5001#🌐سرور 1862 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-216
+ss://1ee1f28d-4975-4d7c-95c7-76172c20eed5@185.143.233.238:2086?type=ws&amp;security=none&amp;encryption=none&amp;host=parsi.parsi.sbs&amp;path=%2F#🌐سرور 28 | ss | Meh-01 | 12:40 | Ping: 121.87ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3d2oxOWVucHA2OHB4OHQ3@sth.free-outline.giize.com:1081#🇭🇰[openproxylist.com] ss-HK
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🌐سرور 36 | ss | Meh-01 | 12:40 | Ping: 152.90ms
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🌐سرور 15 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.9:8080#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206V0FxZUdBK2RVK0haWVNpcENpbytKbXQ3U1NWZkhqd01IN2o4eG1zbTcvcz06YWx0aGRkWjI3aXUyNjFJKzU2OHBrN0haekJGREN5SXg2cHZHOEg5b1hvdz0@web.turbooserver.net.tr:2087#🌐سرور 1913 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🌐سرور 1917 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206aU9hSVhOc1FYVkl4d21rWQ==@140.82.56.38:8388#🇳🇱[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-13160
+ss://chacha20-ietf-poly1305:c58d16e593d44f42@158.173.221.214:11001#🌐سرور 10 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MFlmZjY3anhkM3pYWTln@20.87.3.84:443#🌐سرور 1908 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#🌐سرور 1903 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphQmxxZGZEdjFhVGIya2xy@4.210.66.171:443#M.HH V2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1h0dkNFUTFaVTFyekYzZklLMGZ3PT0@77.240.38.27:8443#🌐سرور 1914 | Sep-23 | MTSRVRS
+ss://631ee34f-4faf-4ad7-b49d-e6f50403cf0e@89.105.197.203:443?security=reality&amp;encryption=none&amp;pbk=mza5Hn1aolSz65qu-UwvBP3oesxMe25r11o4nxvikF0&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=anyfile2file.com&amp;sid=64c1fe36c7846400#🌐سرور 26 | ss | Meh-01 | 12:40 | Ping: 118.79ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🌐سرور 1899 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206ZXZlYWFUT2I4amk4eW50dzJaOXlXVUcwZDZJcjhMZDhtM3ltSDhUSGRDNWVnaVRIMW1YQ2lCYzBTa3I3RmliSA==@yyz-ca-01.blncvpn4u.cc:9443#🇨🇦[openproxylist.com] ss-CA
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#EPODONIOS
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🌐سرور 13 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🌐سرور 1873 | Sep-23 | MTSRVRS
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#🌐سرور 1876 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#🌐سرور 2 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpONFF6NDNPMCtqd04xTm53VlZsNjJUYUxrZ3ZoWVJ5bFE4aytyYmxoQjdFPQ@138.201.197.177:2083#🌐سرور 1904 | Sep-23 | MTSRVRS
+ss://370f6712-c143-48ab-8974-aa35c32aa128@cumhuriyet.com.tr:8080?type=ws&host=join-to-unlimiteddev.sabadyt.ir&path=/@unlimiteddev----@unlimiteddev-----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimiteddev----@unlimitedev----@unlimitedev----@unlimiteddev----@unlimiteddev?ed%3D2480#🌐سرور 1925 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaE5EMGRBK2t6NTY3TER4b29HZU50Y0NjaGtQdFBPNVhFdTFmODFPNU8wPQ@138.201.197.177:2223#🌐سرور 1922 | Sep-23 | MTSRVRS
+ss://1fac5e18-2ca8-4626-c299-1f3f21c6b55e@k2.cloud--vpn.site:443?path=%2F&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=c12.com&amp;fp=firefox&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#🌐سرور 24 | ss | Meh-01 | 12:40 | Ping: 61.94ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#🇹🇼[openproxylist.com] ss-TW
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🌐سرور 16 | Sep-23 | MTSRVRS
+ss://f20769b0-7dd9-4d2a-bdc1-5d2b52091e90@11.foodtry.ir:2083?security=reality&amp;encryption=none&amp;pbk=k2FIq2XySl4OHuWDoD9hHfCwZWp4XDU33ewPeBywxUY&amp;headerType=none&amp;fp=ios&amp;spx=%2F&amp;type=tcp&amp;sni=play-apps-features.googleusercontent.com&amp;sid=14d97b93cc1650f1#🌐سرور 40 | ss | Meh-01 | 12:40 | Ping: 376.33ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🌐سرور 1905 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.53:8090#🌐سرور 1883 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ@57.131.48.45:8388#Italy%20%F0%9F%87%AE%F0%9F%87%B9
+ss://chacha20-ietf-poly1305:FD3rCuOsxOay@15.235.75.71:8388#🌐سرور 7 | Sep-23 | MTSRVRS
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#🌐سرور 1884 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0YUxqRFp0UjQ3R3Jpbms0@4.221.226.118:443#🌐سرور 1868 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-638
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@23.157.40.53:8118#🌐سرور 1875 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.13:8080#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@5.75.192.44:1080#🌐سرور 1898 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#M.HH V2RAY
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#EPODONIOS
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🌐سرور 17 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#EPODONIOS
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@63.180.254.10:443#🌐سرور 30 | ss | Meh-01 | 12:40 | Ping: 127.56ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVMWZSUVNlNWdWTkdjUkpoR191UzFR@63.181.37.22:1001#🌐سرور 1894 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206b3dWZE5uUWNkUGd0aFN5WA@216.128.168.190:8388#🇧🇷[openproxylist.com] ss-BR
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#🌐سرور 1919 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206R0Vkb2VlcUxadGtKUmdTYQ@139.84.166.47:8388#🇮🇳[openproxylist.com] ss-IN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#EPODONIOS
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🌐سرور 1874 | Sep-23 | MTSRVRS
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6aFcva1ozTGt1YjQxY3lhbG5Tc05UQ1lGOGhNTzhkaDVNSHpxZitGUmw4bz0@141.144.194.235:45819#🇳🇱[openproxylist.com] ss-NL
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🌐سرور 1892 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#🌐سرور 1879 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1899
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🌐سرور 19 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaE5EMGRBK2t6NTY3TER4b29HZU50Y0NjaGtQdFBPNVhFdTFmODFPNU8wPQ@138.201.197.177:2223#🌐سرور 1911 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@15.235.75.71:8388#Canada%20%F0%9F%87%A8%F0%9F%87%A6
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#🇺🇸[openproxylist.com] ss-US
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080#🌐سرور 32 | ss | Meh-01 | 12:40 | Ping: 141.09ms
+ss://chacha20-ietf-poly1305:Ps4MSc9PUejUkW3E@68.219.211.88:443#🌐سرور 1924 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#🏳[openproxylist.com] ss-
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.155:8080#United%20Kingdom%20%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🌐سرور 1885 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI@108.181.0.177:8388?type=tcp&headerType=none#United%20States%20%F0%9F%87%BA%F0%9F%87%B8
+ss://YWVzLTI1Ni1nY206eEJTdEJFVnF2R3dIUG9jYw@64.176.2.21:8388#🇨🇱[openproxylist.com] ss-CL
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@158.173.20.208:443#🌐سرور 29 | ss | Meh-01 | 12:40 | Ping: 126.11ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🌐سرور 1918 | Sep-23 | MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-623
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaE5EMGRBK2t6NTY3TER4b29HZU50Y0NjaGtQdFBPNVhFdTFmODFPNU8wPQ@138.201.197.177:2223#🌐سرور 1931 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.157.40.10:5001#🌐سرور 1947 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🌐سرور 1896 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpONFF6NDNPMCtqd04xTm53VlZsNjJUYUxrZ3ZoWVJ5bFE4aytyYmxoQjdFPQ@138.201.197.177:2083#🌐سرور 1955 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#🌐سرور 1925 | Sep-23 | MTSRVRS
-ss://chacha20-ietf-poly1305:Ps4MSc9PUejUkW3E@68.219.211.88:443#🌐سرور 1927 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4enc1ajlo@54.36.174.134:443#🌐سرور 1934 | Sep-23 | MTSRVRS
-ss://chacha20-ietf-poly1305:FD3rCuOsxOay@15.235.75.71:8388#🌐سرور 15 | Sep-23 | MTSRVRS
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206V0FxZUdBK2RVK0haWVNpcENpbytKbXQ3U1NWZkhqd01IN2o4eG1zbTcvcz06YWx0aGRkWjI3aXUyNjFJKzU2OHBrN0haekJGREN5SXg2cHZHOEg5b1hvdz0@web.turbooserver.net.tr:2087#🌐سرور 1958 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprWWhGNFJXcW9oVHBiVmF1@20.234.82.250:443#🌐سرور 1954 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🌐سرور 22 | ss | Meh-01 | 07:25 | Ping: 37.52ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.15:443#🌐سرور 1948 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🌐سرور 30 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQczRNU2M5UFVlalVrVzNF@68.219.211.88:443#🌐سرور 1915 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTczMWVjMy1mOGUxLTQzZjYtOTJjZi0zOTc4ZDE0NzA1YzQ@r3mrcg001286ek2.cybervena.com:50099#🇹🇼[openproxylist.com] ss-TW
-ss://8918d0d6-b266-4f71-9aaf-4160265537e6@speedtest.net:80?mode=auto&path=%2F&security=none&encryption=none&host=p30download.ir&type=xhttp#🌐سرور 1909 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#Japan%20%F0%9F%87%AF%F0%9F%87%B5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🌐 به روزرسانی شده در Sep-23 | 07:33 | هر 2 ساعت کانفیک جدید داریم
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk@15.235.75.71:8388#🌐سرور 14 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJWGEzeWx6U19qQk9Bc1F5MDcxdElR@94.249.187.46:1080#🇩🇪[openproxylist.com] ss-DE
-ss://YWVzLTI1Ni1nY206QXhJWVd0c2tKV0lJYWVmVw@70.34.212.124:8388#🇸🇪[openproxylist.com] ss-SE
-ss://70f5d3b8-7d31-4d7d-9467-e43752d66fca@sub.shadowsokstes.WoRkErs.DeV:2096?path=vless-ws%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sub.shadowsokstes.WoRkErs.DeV&amp;fp=randomized&amp;type=ws&amp;sni=sub.shadowsokstes.WoRkErs.DeV#🌐سرور 26 | ss | Meh-01 | 07:25 | Ping: 44.65ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.42:8080#🇳🇱[openproxylist.com] ss-NL
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🌐سرور 32 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206TlRNeU9HTmpNVEk1T1RGaU9HUXdNVGcyTkRJMVlUYzBZamhtTURVeQ@188.121.123.28:9147#🌐سرور 1943 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcTV0RE5hOXFFRWpOOUVNNEFyeFF3@p1tun3.greewebservices.ir:2070#🌐سرور 1944 | Sep-23 | MTSRVRS
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6UmtSNkJwRWdtdWh1cDZtUi9Kc3RBRFpTUVl5emwrNDRvclQwZ1hab3JZQT0@129.151.93.37:61312#🇬🇧[openproxylist.com] ss-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443#🌐سرور 1956 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwcTV0RE5hOXFFRWpOOUVNNEFyeFF3@p1tun2.greewebservices.ir:2060#🌐سرور 1932 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0YUxqRFp0UjQ3R3Jpbms0@4.221.226.118:443#🌐سرور 1902 | Sep-23 | MTSRVRS
-ss://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&amp;fp=firefox&amp;type=grpc&amp;serviceName=hub.v1.RelayService&amp;sni=md1.univesalsrv.com&amp;sid=221ba6174224ca5b#🌐سرور 36 | ss | Meh-01 | 07:25 | Ping: 160.46ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyWWZpNGNRM3o3enRzN0JPNC1ZOV9B@188.41.249.20:1080#M.HH V2RAY
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp3MFlmZjY3anhkM3pYWTln@20.87.3.84:443#🌐سرور 1920 | Sep-23 | MTSRVRS
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🌐سرور 5 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206OWNmYWE3OGQ1MWFjMzY2Zg@89.125.244.241:10090#🇯🇵[openproxylist.com] ss-JP
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVjRidmFKSVdveGwzSVlFQzFlNlc3@194.233.74.160:2342#🇸🇬[openproxylist.com] ss-SG
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#🌐سرور 4 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🌐سرور 28 | Sep-23 | MTSRVRS
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MlBJdVRBeFpqekp4bmk0a3h5L0dRMzZWV1RiUnJZemwxZmptMHVmVFI5ND0=@167.150.100.93:29824#🇸🇬[openproxylist.com] ss-SG
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#🌐سرور 28 | ss | Meh-01 | 07:25 | Ping: 108.28ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8080#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-633
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6RUc3Z2Q2ZjFGU2ttK3gvT29XUkh6c1JUMUpsL3RTeDBFV3hrcHJFR1pTbz0@129.151.73.227:61312#🇬🇧[openproxylist.com] ss-GB
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OWIwNzVlMzU1OGU5ZjU2YjkzMWYxODQwN2IwNjEwZQ@turk2.hosting-96.ir:4592#🌐سرور 1952 | Sep-23 | MTSRVRS
-ss://44eae030-290b-4083-8102-6f8bab05701b@104.21.89.41:443?path=%2F&amp;security=tls&amp;encryption=none&amp;fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&amp;insecure=0&amp;host=cfvvv-ev1.pages.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=cfvvv-ev1.pages.dev#🌐سرور 21 | ss | Meh-01 | 07:25 | Ping: 13.95ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.11:8080#🌐سرور 1 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCaFlNa0JwakFqRTZpeFN3@20.164.211.25:443#🌐سرور 39 | ss | Meh-01 | 07:25 | Ping: 255.93ms
-ss://chacha20-ietf-poly1305:LB2J8MvTt2SBgD6o@20.238.35.153:443#🌐سرور 1918 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#🇨🇦[openproxylist.com] ss-CA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk%3D@15.235.75.71:8388#Canada%20%F0%9F%87%A8%F0%9F%87%A6
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#🌐سرور 24 | ss | Meh-01 | 07:25 | Ping: 39.10ms
-ss://YWVzLTEyOC1nY206bzJydzJoSUN3dTFibHJyX2daQWwyUQ@82.47.186.18:19290#🌐سرور 1950 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#🌐سرور 31 | ss | Meh-01 | 07:25 | Ping: 127.73ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@71.19.148.143:443#🌐سرور 1939 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🌐سرور 1914 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🌐سرور 1897 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#EPODONIOS
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#🌐سرور 1922 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🌐سرور 29 | Sep-23 | MTSRVRS
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦[openproxylist.com] ss-CA
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@158.173.20.208:443#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpma1h0dkNFUTFaVTFyekYzZklLMGZ3PT0@77.240.38.27:8443#🌐سرور 1898 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRTWVtV2lkNlhHdG5SZXVv@20.238.35.153:443#🌐سرور 1893 | Sep-23 | MTSRVRS
-ss://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?security=reality&amp;encryption=none&amp;pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=aws.amazon.com#🌐سرور 23 | ss | Meh-01 | 07:25 | Ping: 38.38ms
-ss://6f1c26e9-97ff-4708-9bff-3fb7b520dd5f@172.67.211.227:2082?path=%2F%40v2ngnet-%40-v2ngnet%40v2ngnet-%40v2ngnet-%40v2ngnet-%40v2ngnet%3Fed%3D2048&security=&encryption=none&host=ma.nanvrfood.ir&type=httpupgrade#🌐سرور 1933 | Sep-23 | MTSRVRS
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0@51.222.107.43:2083#🌐سرور 1924 | Sep-23 | MTSRVRS
-ss://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443?security=reality&amp;encryption=none&amp;pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=cdn-se.alohaapp.uk&amp;sid=b9f8f9772217538f#🌐سرور 32 | ss | Meh-01 | 07:25 | Ping: 128.48ms
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@149.22.87.240:443#🌐سرور 33 | ss | Meh-01 | 07:25 | Ping: 133.21ms
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@23.157.40.120:5498#🌐سرور 1894 | Sep-23 | MTSRVRS
-ss://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?security=reality&amp;encryption=none&amp;pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&amp;headerType=none&amp;type=tcp&amp;sni=www.cloudflare.com&amp;sid=50ba05992b05c1c3#🌐سرور 35 | ss | Meh-01 | 07:25 | Ping: 151.62ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4QzV2YWxoT2Q4dmZ3YVRYVVNaNlp5YjBJcDM0bFJSNXo3UDhheg@103.160.63.199:31348#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#🌐سرور 29 | ss | Meh-01 | 07:25 | Ping: 122.21ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnVDM2dHNpUGZuZDBucDVraEpxanlR@p2tun1.greewebservices.ir:1010#🌐سرور 1921 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#🌐سرور 1901 | Sep-23 | MTSRVRS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#🌐سرور 38 | ss | Meh-01 | 07:25 | Ping: 171.16ms
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozYU45WFV3aHZxMXVqbHNP@4.221.224.246:443#🌐سرور 1926 | Sep-23 | MTSRVRS
+ss://c75775e9-cf53-47b6-9d1d-29c3a46633fd@darsadgir.ir:2087?encryption=none&amp;type=xhttp&amp;security=tls&amp;sni=ratatouille.rahmatokaduie.ir&amp;host=ratatouille.rahmatokaduie.ir&amp;path=/GoRbEh&amp;mode=auto&amp;extra=%7B%22mode%22:%22auto%22,%22seqKey%22:%22Upload-Offset%22,%22seqPlacement%22:%22header%22,%22sessionIDKey%22:%22Idempotency-Key%22,%22sessionIDPlacement%22:%22header%22,%22xPaddingBytes%22:%221-1%22,%22xPaddingHeader%22:%22x-grpc-context%22,%22xPaddingKey%22:%22ctx%22,%22xPaddingMethod%22:%22tokenish%22,%22xPaddingObfsMode%22:true%7D#🌐سرور 37 | ss | Meh-01 | 12:40 | Ping: 171.37ms
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.147:8080#🌐سرور 1 | Sep-23 | MTSRVRS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYVjRidmFKSVdveGwzSVlFQzFlNlc3@194.233.74.160:2342#🏳[openproxylist.com] ss-
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#🇨🇦[openproxylist.com] ss-CA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080?type=tcp&headerType=none#The%20Netherlands%20%F0%9F%87%B3%F0%9F%87%B1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNThkMTZlNTkzZDQ0ZjQy@158.173.221.214:11001#🌐سرور 11 | Sep-23 | MTSRVRS
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.53:8080#🌐سرور 1915 | Sep-23 | MTSRVRS
