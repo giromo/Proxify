@@ -3,18 +3,23 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 7 | hysteria2 | Meh-11 | 03:44 | Ping: 159.10ms
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🌐سرور 13 | hysteria2 | Meh-11 | 03:44 | Ping: 170.36ms
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🌐سرور 12 | hysteria2 | Meh-11 | 03:44 | Ping: 169.59ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 3 | hysteria2 | Meh-11 | 03:44 | Ping: 131.22ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#🌐سرور 2 | hysteria2 | Meh-11 | 03:44 | Ping: 130.98ms
-hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🌐سرور 6 | hysteria2 | Meh-11 | 03:44 | Ping: 154.54ms
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🌐سرور 15 | hysteria2 | Meh-11 | 03:44 | Ping: 174.81ms
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 9 | hysteria2 | Meh-11 | 03:44 | Ping: 159.56ms
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#🌐سرور 14 | hysteria2 | Meh-11 | 03:44 | Ping: 170.75ms
-hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#🌐سرور 1 | hysteria2 | Meh-11 | 03:44 | Ping: 50.02ms
-hysteria2://8b60d570-cbce-4791-b3e8-bcb80dd12ac0@uk-002.xiaoxiaobujidao.xyz:19443?sni=uk-002.xiaoxiaobujidao.xyz#🌐سرور 4 | hysteria2 | Meh-11 | 03:44 | Ping: 145.51ms
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 8 | hysteria2 | Meh-11 | 03:44 | Ping: 159.49ms
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?insecure=0&sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🌐سرور 11 | hysteria2 | Meh-11 | 03:44 | Ping: 164.24ms
-hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🌐سرور 10 | hysteria2 | Meh-11 | 03:44 | Ping: 163.52ms
-hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@covers.pantera-radio.ru:443?insecure=1&security=tls&sni=covers.pantera-radio.ru#🌐سرور 5 | hysteria2 | Meh-11 | 03:44 | Ping: 152.36ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 5 | hysteria2 | Meh-11 | 08:56 | Ping: 114.73ms
+hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@covers.pantera-radio.ru:443?insecure=1&security=tls&sni=covers.pantera-radio.ru#🌐سرور 20 | hysteria2 | Meh-11 | 08:56 | Ping: 282.29ms
+hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?insecure=1&sni=vps155-edge.kermemehori.ru#🌐سرور 9 | hysteria2 | Meh-11 | 08:56 | Ping: 125.97ms
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 8 | hysteria2 | Meh-11 | 08:56 | Ping: 125.56ms
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 11 | hysteria2 | Meh-11 | 08:56 | Ping: 126.64ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?insecure=0&sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🌐سرور 14 | hysteria2 | Meh-11 | 08:56 | Ping: 148.03ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=de1.sferavpn.pro#🌐سرور 7 | hysteria2 | Meh-11 | 08:56 | Ping: 124.41ms
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 12 | hysteria2 | Meh-11 | 08:56 | Ping: 135.92ms
+hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?insecure=1&sni=vps155-edge.kermemehori.ru#🌐سرور 17 | hysteria2 | Meh-11 | 08:56 | Ping: 153.68ms
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#🌐سرور 13 | hysteria2 | Meh-11 | 08:56 | Ping: 142.62ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🌐سرور 15 | hysteria2 | Meh-11 | 08:56 | Ping: 151.33ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🌐سرور 18 | hysteria2 | Meh-11 | 08:56 | Ping: 154.71ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 4 | hysteria2 | Meh-11 | 08:56 | Ping: 112.84ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@144.31.49.138:443?security=tls&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0&insecure=0&sni=ru1.sferavpn.pro#🌐سرور 16 | hysteria2 | Meh-11 | 08:56 | Ping: 153.51ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#🌐سرور 2 | hysteria2 | Meh-11 | 08:56 | Ping: 107.73ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443/?obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz#🌐سرور 3 | hysteria2 | Meh-11 | 08:56 | Ping: 112.39ms
+hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@covers.pantera-radio.ru:443?insecure=1&sni=covers.pantera-radio.ru#🌐سرور 19 | hysteria2 | Meh-11 | 08:56 | Ping: 174.97ms
+hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=www.bing.com#🌐سرور 1 | hysteria2 | Meh-11 | 08:56 | Ping: 30.31ms
+hysteria2://cd74c0a406664a5bc0bac098220a2468@2.27.59.206:443?insecure=0&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#🌐سرور 10 | hysteria2 | Meh-11 | 08:56 | Ping: 126.62ms
+hysteria2://cf83b611-6cba-4535-adcb-8da06c6a9146@144.31.212.253:443?insecure=1&sni=vps155-edge.kermemehori.ru#🌐سرور 6 | hysteria2 | Meh-11 | 08:56 | Ping: 122.57ms
