@@ -3,14 +3,9 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://Vt-D1BUk4HLncS1rtf8mUZ8h@51.75.118.5:20222?sni=www.google.com&obfs=salamander&obfs-password=ad7088dafb02115c&insecure=1&alpn=h3#🌐سرور 6 | hysteria2 | Aba-12 | 04:22 | Ping: 144.99ms
-hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#🌐سرور 5 | hysteria2 | Aba-12 | 04:22 | Ping: 141.94ms
-hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443/?sni=promo3.goonars.com#🌐سرور 1 | hysteria2 | Aba-12 | 04:22 | Ping: 49.81ms
-hysteria2://gf1@173.212.201.85:443?insecure=1&sni=www.docker.com#🌐سرور 4 | hysteria2 | Aba-12 | 04:22 | Ping: 141.55ms
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#🌐سرور 8 | hysteria2 | Aba-12 | 04:22 | Ping: 160.92ms
-hysteria2://69e41e64-a832-471a-b740-94577ca85520@forshynewh.duckdns.org:443?insecure=0&sni=forshynewh.duckdns.org#🌐سرور 11 | hysteria2 | Aba-12 | 04:22 | Ping: 256.77ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 9 | hysteria2 | Aba-12 | 04:22 | Ping: 162.74ms
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 10 | hysteria2 | Aba-12 | 04:22 | Ping: 198.38ms
-hysteria2://gf1:gfhysteria2024@173.212.201.85:443/?insecure=1&sni=www.docker.com#🌐سرور 7 | hysteria2 | Aba-12 | 04:22 | Ping: 145.37ms
-hysteria2://59018379-d5df-4314-ab23-df0e838d7953@198.13.140.193:443/?obfs=salamander&obfs-password=litevpn&sni=efa11.lumariqis.com#🌐سرور 3 | hysteria2 | Aba-12 | 04:22 | Ping: 138.07ms
-hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@141.0.187.15:443/?sni=crt.onecloudstream.com#🌐سرور 2 | hysteria2 | Aba-12 | 04:22 | Ping: 130.81ms
+hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443?sni=promo3.goonars.com#🌐سرور 1 | hysteria2 | Aba-12 | 19:27 | Ping: 17.67ms
+hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443?insecure=0&sni=promo3.goonars.com#🌐سرور 3 | hysteria2 | Aba-12 | 19:27 | Ping: 17.87ms
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 6 | hysteria2 | Aba-12 | 19:27 | Ping: 114.90ms
+hysteria2://63e1b9462d708b56d5d5a0267cffecdc@88.216.195.188:443/?sni=promo3.goonars.com#🌐سرور 2 | hysteria2 | Aba-12 | 19:27 | Ping: 17.87ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 5 | hysteria2 | Aba-12 | 19:27 | Ping: 92.16ms
+hysteria2://59018379-d5df-4314-ab23-df0e838d7953@198.13.140.193:443?sni=efa11.lumariqis.com&obfs=salamander&obfs-password=litevpn#🌐سرور 4 | hysteria2 | Aba-12 | 19:27 | Ping: 87.56ms
