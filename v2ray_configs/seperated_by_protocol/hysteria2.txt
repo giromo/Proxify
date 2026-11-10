@@ -3,14 +3,13 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?security=tls&obfs=salamander&obfs-password=MeJA9qgoYMH4UMunHowisrbd&insecure=0&sni=hank.hankli1214.xyz#🌐سرور 6 | hysteria2 | Aba-19 | 05:24 | Ping: 133.90ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 3 | hysteria2 | Aba-19 | 05:24 | Ping: 108.46ms
-hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=nl.vip-get.ru#🌐سرور 9 | hysteria2 | Aba-19 | 05:24 | Ping: 157.08ms
-hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=nl.vip-get.ru#🌐سرور 10 | hysteria2 | Aba-19 | 05:24 | Ping: 170.05ms
-hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus#🌐سرور 1 | hysteria2 | Aba-19 | 05:24 | Ping: 33.40ms
-hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=nl.vip-get.ru#🌐سرور 8 | hysteria2 | Aba-19 | 05:24 | Ping: 155.64ms
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 5 | hysteria2 | Aba-19 | 05:24 | Ping: 121.22ms
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 7 | hysteria2 | Aba-19 | 05:24 | Ping: 150.50ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 4 | hysteria2 | Aba-19 | 05:24 | Ping: 111.14ms
-hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443/?insecure=1&obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Aba-19 | 05:24 | Ping: 35.78ms
-hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?security=tls&obfs=salamander&obfs-password=MeJA9qgoYMH4UMunHowisrbd&insecure=0&sni=hank.hankli1214.xyz#🌐سرور 11 | hysteria2 | Aba-19 | 05:24 | Ping: 176.05ms
+hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?security=tls&obfs=salamander&obfs-password=MeJA9qgoYMH4UMunHowisrbd&insecure=0&sni=hank.hankli1214.xyz#🌐سرور 5 | hysteria2 | Aba-19 | 12:56 | Ping: 126.15ms
+hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443/?insecure=1&obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus&sni=www.microsoft.com#🌐سرور 2 | hysteria2 | Aba-19 | 12:56 | Ping: 40.19ms
+hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#🌐سرور 4 | hysteria2 | Aba-19 | 12:56 | Ping: 123.76ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 3 | hysteria2 | Aba-19 | 12:56 | Ping: 121.23ms
+hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?insecure=0&sni=hank.hankli1214.xyz&obfs=salamander&obfs-password=MeJA9qgoYMH4UMunHowisrbd#🌐سرور 10 | hysteria2 | Aba-19 | 12:56 | Ping: 175.25ms
+hysteria2://YV1sd3tfCZngTtnvRmy7@206.189.229.48:443?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=ZuPf4OcXKvotJdDxlTus#🌐سرور 1 | hysteria2 | Aba-19 | 12:56 | Ping: 39.29ms
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 7 | hysteria2 | Aba-19 | 12:56 | Ping: 136.39ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🌐سرور 6 | hysteria2 | Aba-19 | 12:56 | Ping: 132.46ms
+hysteria2://kKd2watTl7WACOoIAjkzt4MW6ak6I3c1Un8c4-oNMtU@84.252.100.138:5443?sni=nl.vip-get.ru#🌐سرور 9 | hysteria2 | Aba-19 | 12:56 | Ping: 153.40ms
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 8 | hysteria2 | Aba-19 | 12:56 | Ping: 138.74ms
