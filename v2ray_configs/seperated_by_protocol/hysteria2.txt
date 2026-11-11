@@ -3,11 +3,14 @@
 #subscription-userinfo: upload=29; download=12; total=10737418240000000; expire=2546249531
 #support-url: https://github.com/firmfox/Proxify
 #profile-web-page-url: https://github.com/giromo/Proxify
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🌐سرور 7 | hysteria2 | Aba-20 | 06:10 | Ping: 199.73ms
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#🌐سرور 5 | hysteria2 | Aba-20 | 06:10 | Ping: 153.58ms
-hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?security=tls&obfs=salamander&obfs-password=MeJA9qgoYMH4UMunHowisrbd&insecure=0&sni=hank.hankli1214.xyz#🌐سرور 2 | hysteria2 | Aba-20 | 06:10 | Ping: 111.53ms
-hysteria2://UrKhE2HmJfmWi5Iuotyumfo2ZZUHPEAL@proel.jetservistr.ir:443?sni=wufpel.ir&obfs=salamander&obfs-password=5P1G9AdY6Jx8giZJCuS4w_gV#🌐سرور 8 | hysteria2 | Aba-20 | 06:10 | Ping: 361.16ms
-hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?insecure=0&sni=hank.hankli1214.xyz&obfs=salamander&obfs-password=MeJA9qgoYMH4UMunHowisrbd#🌐سرور 3 | hysteria2 | Aba-20 | 06:10 | Ping: 132.54ms
-hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#🌐سرور 4 | hysteria2 | Aba-20 | 06:10 | Ping: 136.17ms
-hysteria2://1794466637@31.76.91.168:443?insecure=1&sni=jp.lumacache.com#🌐سرور 1 | hysteria2 | Aba-20 | 06:10 | Ping: 107.14ms
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 6 | hysteria2 | Aba-20 | 06:10 | Ping: 155.50ms
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#🌐سرور 1 | hysteria2 | Aba-20 | 13:59 | Ping: 110.20ms
+hysteria2://1794466637@31.76.91.168:443?insecure=1&sni=jp.lumacache.com#🌐سرور 4 | hysteria2 | Aba-20 | 13:59 | Ping: 136.15ms
+hysteria2://ogM_2gHx3Zs4RiT9obZV45bsp9-5HzW7@proel.jetservistr.ir:443?obfs=salamander&obfs-password=5P1G9AdY6Jx8giZJCuS4w_gV&fm={"udp":[{"type":"salamander","settings":{"password":"5P1G9AdY6Jx8giZJCuS4w_gV"}}]}&sni=wufpel.ir&fp=chrome#🌐سرور 6 | hysteria2 | Aba-20 | 13:59 | Ping: 197.31ms
+hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#🌐سرور 2 | hysteria2 | Aba-20 | 13:59 | Ping: 115.11ms
+hysteria2://UrKhE2HmJfmWi5Iuotyumfo2ZZUHPEAL@proel.jetservistr.ir:443?sni=wufpel.ir&obfs=salamander&obfs-password=5P1G9AdY6Jx8giZJCuS4w_gV#🌐سرور 8 | hysteria2 | Aba-20 | 13:59 | Ping: 202.73ms
+hysteria2://ogM_2gHx3Zs4RiT9obZV45bsp9-5HzW7@proel.jetservistr.ir:443?obfs=salamander&obfs-password=5P1G9AdY6Jx8giZJCuS4w_gV&fm={"udp":[{"type":"salamander","settings":{"password":"5P1G9AdY6Jx8giZJCuS4w_gV"}}]}&sni=wufpel.ir&fp=chrome#🌐سرور 7 | hysteria2 | Aba-20 | 13:59 | Ping: 201.44ms
+hysteria2://https%3A%2F%2Fxship.best@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#🌐سرور 3 | hysteria2 | Aba-20 | 13:59 | Ping: 127.66ms
+hysteria2://02df03e3-3029-4c95-bffe-8f211b480672@edge.hankli1214.xyz:443?insecure=0&sni=hank.hankli1214.xyz&obfs=salamander&obfs-password=MeJA9qgoYMH4UMunHowisrbd#🌐سرور 5 | hysteria2 | Aba-20 | 13:59 | Ping: 169.11ms
+hysteria2://ogM_2gHx3Zs4RiT9obZV45bsp9-5HzW7@proel.jetservistr.ir:443?obfs=salamander&obfs-password=5P1G9AdY6Jx8giZJCuS4w_gV&fm={"udp":[{"type":"salamander","settings":{"password":"5P1G9AdY6Jx8giZJCuS4w_gV"}}]}&sni=wufpel.ir&fp=chrome#🌐سرور 11 | hysteria2 | Aba-20 | 13:59 | Ping: 316.86ms
+hysteria2://UrKhE2HmJfmWi5Iuotyumfo2ZZUHPEAL@proel.jetservistr.ir:443?sni=wufpel.ir&obfs=salamander&obfs-password=5P1G9AdY6Jx8giZJCuS4w_gV#🌐سرور 9 | hysteria2 | Aba-20 | 13:59 | Ping: 203.08ms
+hysteria2://ogM_2gHx3Zs4RiT9obZV45bsp9-5HzW7@proel.jetservistr.ir:443?obfs=salamander&obfs-password=5P1G9AdY6Jx8giZJCuS4w_gV&fm={"udp":[{"type":"salamander","settings":{"password":"5P1G9AdY6Jx8giZJCuS4w_gV"}}]}&sni=wufpel.ir&fp=chrome#🌐سرور 10 | hysteria2 | Aba-20 | 13:59 | Ping: 222.57ms
